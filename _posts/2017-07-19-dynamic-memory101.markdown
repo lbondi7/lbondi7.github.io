@@ -4,10 +4,6 @@ title: Dynamic Memory 101
 date: 2017-07-19T13:30:00.000Z
 author: James Huxtable
 categories:
-  - Blog
-  - Low-Level Programming
-  - Development
-  - Nothing Interesting
 img: post01.jpg
 thumb: c_thumb.jpg
 published: false
