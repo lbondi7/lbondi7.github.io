@@ -24,10 +24,10 @@ For navigating the ship I had pretty good idea of how I was going to do this as 
 
 I instantiated two room objects from my room class. A "current room" object and a "next room" object. I did this so it would render the current rooms information to the screen and the "next room" was for checking if the room I wanted to go into was safe or required an item to access it.
 
-{% capture images %}
-    	/assets/img/blog/TxBsdAdvenBlog/NavigatingShip.gif
-{% endcapture %}
-{% include gallery images=images caption="This shows the current room information being renderer and then when the player tries to move into the next room, they can't due to the next room requiring an item to access it." cols=1 %}
+<figure>
+    <a href="/assets/img/blog/TxBsdAdvenBlog/NavigatingShip.gif"><img src="/assets/img/blog/TxBsdAdvenBlog/NavigatingShip.gif"></a>
+    <figcaption>This shows the current room information being renderer and then when the player tries to move into the next room, they can't due to the next room requiring an item to access it.</figcaption>
+</figure>
 
 ### Code
 ~~~
