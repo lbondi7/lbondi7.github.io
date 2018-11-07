@@ -8,8 +8,10 @@ img: post03.jpg
 thumb: c_thumb.jpg
 published: true
 ---
+<!--more-->
 
 # Assignment
+
 <figure>
    <a href="/assets/img/BlogPosts/TxBsdAdvenBlog/aims.png"><img src="/assets/img/BlogPosts/TxBsdAdvenBlog/aims.png"></a>
 	<figcaption></figcaption>
