@@ -34,12 +34,11 @@ For my level I was making the I thinking of making the island have heavy fog cov
 The images below are initial drawings of how the town will look and feel. It will only have a couple of buildings with a rundown playground. The size of the environment is due to the time constraints of the assessment and the fact it is only meant to have a few minutes of gameplay. All the houses will be able to be explored with the one being the house with the upgrade. The whole town will have an eerie feel and look abandoned with only a couple of people who seem like they are insane and talking gibberish.
 
 ![Hello](/assets/img/blog/LevelDesignDevDiary/LDAssLayout.jpg){:class="img-responsive"}{:height="500px" width="200px"}
-~~~
+
 <figure class="half">
-	<a href="/assets/img/blog/LevelDesignDevDiary/LDAssLayout.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/LDAssLayout.jpg"></a>
-	<a href="/assets/img/blog/LevelDesignDevDiary/LDAssInitialTownDesign.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/LDAssInitialTownDesign.jpg"></a>
+	<a href="/assets/img/blog/LevelDesignDevDiary/LDAssLayout.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/LDAssLayout.jpg" height="100" width="100"></a>
+	<a href="/assets/img/blog/LevelDesignDevDiary/LDAssInitialTownDesign.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/LDAssInitialTownDesign.jpg" height="100px" width="100px"></a>
 	<figcaption>The image on the right shows the layout of the town. The left one is the perspective of the player when they first see the town.</figcaption>
 </figure>
 
-~~~
 [PREVIOUS BLOG POST](https://lbondi7.github.io/post/developer%20diary/level%20design%20developer%20diary/level%20design%20assessment/LevDes-dev-diary-1/){: .btn}
