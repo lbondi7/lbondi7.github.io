@@ -4,9 +4,6 @@ title: "Conditional Loops"
 date: 2017-07-19 12:00:00
 author: James Huxtable
 categories:
-- Blog
-- Code-Snippets
-- Low-Level Programming
 img: post03.jpg
 thumb: c_thumb.jpg
 published: false
