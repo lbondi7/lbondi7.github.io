@@ -76,4 +76,4 @@ members:
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Those who can do and those who can't teach games design."
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
