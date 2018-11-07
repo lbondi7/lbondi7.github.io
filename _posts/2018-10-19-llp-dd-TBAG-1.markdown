@@ -4,8 +4,8 @@ title:  "Text Based Adventure Game  Dev Diary: Assignment"
 date:   2018-10-19
 author: Lewis Bond
 categories: [Post, Developer Diary, Low Level Programming Dev Diary, Text Based Adventure Dev Diary]
-img: post03.jpg
-thumb: c_thumb.jpg
+img: /TxBsdAdvenBlog/coverPage.png
+thumb: /TxBsdAdvenBlog/coverPage.png
 published: true
 ---
 <!--more-->
