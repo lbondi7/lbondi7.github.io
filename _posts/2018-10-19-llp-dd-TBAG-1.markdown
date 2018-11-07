@@ -13,7 +13,7 @@ published: true
 # Assignment
 
 <figure>
-   <a href="/assets/img/BlogPosts/TxBsdAdvenBlog/aims.png"><img src="/assets/img/BlogPosts/TxBsdAdvenBlog/aims.png"></a>
+   <a href="/assets/img/blog/TxBsdAdvenBlog/aims.png"><img src="/assets/img/blog/TxBsdAdvenBlog/aims.png"></a>
 	<figcaption></figcaption>
 </figure>
 <br/>
@@ -22,7 +22,7 @@ Rewrite the text based adventure game from BASIC into C++ and fix any bugs as we
 ## Text Based Adventure
 
 <figure>
-    <a href="/assets/img/BlogPosts/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/BlogPosts/TxBsdAdvenBlog/coverPage.png"></a>
+    <a href="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"></a>
     <figcaption></figcaption>
 </figure>
 <br/>
@@ -34,4 +34,4 @@ For my reworked game I will change the setting as well as the items available. M
 
 As a stretch goal I am also thinking of adding in an alien that wonders around the ship and if the user encounters it they will have to defend themself with any items they found or run away.
 
-[NEXT BLOG POST](https://lbondi7.github.io/llp-dd-TBAG-2/){: .btn}
+[NEXT BLOG POST](https://lbondi7.github.io/post/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-2){: .btn}
