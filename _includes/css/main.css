@@ -22,7 +22,7 @@
 	} 
 
 body { 
-	background: #384041; 
+	background: #000000; 
 	margin: 0; 
 	height: 100%; 
 	color: {{ site.colors.secondary }};
