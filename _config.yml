@@ -4,7 +4,7 @@
 title: Hellow
 description: "Nothing"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/portfolio/" #important: start with /
+baseurl: "/portfolio" #important: start with /
 url: "/https://lbondi7.github.io/portfolio/"
 
 # Build settings
