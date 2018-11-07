@@ -13,7 +13,7 @@ published: true
 # Text Based Adventure Game
 
 <figure>
-    <a href="/assets/img/BlogPosts/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/BlogPosts/TxBsdAdvenBlog/coverPage.png"></a>
+    <a href="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"></a>
     <figcaption></figcaption>
 </figure>
 <br/>
