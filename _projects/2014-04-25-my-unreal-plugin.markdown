@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: James Huxtable
 categories:
 - project
-img: unreal_logo.jpg
+img: /PlaygroundPlatformer/logo.png
 carousel:
 - single01.jpg
 - single02.jpg
