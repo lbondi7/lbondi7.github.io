@@ -13,12 +13,6 @@ published: true
 
 # Level Design
 
-<figure>
-    <a href="/assets/img/blog/LevelDesignDevDiary/LevelDesign.png"><img src="/assets/img/blog/LevelDesignDevDiary/LevelDesign.png"></a>
-    <figcaption></figcaption>
-</figure>
-<br/>
-
 ## Assessment
 
 ### Overview
@@ -41,4 +35,4 @@ The player should have challenges to overcome such as obstcales or enemies but t
 #### Progression
 The game should keep the player interested and want to play but also how will the level allow the player to progress and then retreat at the end but not before then.
 
-[NEXT BLOG POST](https://lbondi7.github.io/post/developer%20diary/level%20design%20developer%20diary/level%20design%20assessment/LevDes-dev-diary-2/){: .btn}
+[NEXT BLOG POST](https://lbondi7.github.io/post/developer%20diary/level%20design%20developer%20diary/level%20design%20assessment/LevDes-dev-diary-2){: .btn}
