@@ -40,4 +40,4 @@ The images below are initial drawings of how the town will look and feel. It wil
 </figure>
 
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/LevDes-dev-diary-1/){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/post/developer%20diary/level%20design%20developer%20diary/level%20design%20assessment/LevDes-dev-diary-1/){: .btn}
