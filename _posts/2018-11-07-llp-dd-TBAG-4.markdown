@@ -8,6 +8,7 @@ img: /TxBsdAdvenBlog/coverPage.png
 thumb: /TxBsdAdvenBlog/coverPage.png
 published: true
 ---
+
 <!--more-->
 
 # Text Based Adventure Game
