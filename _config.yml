@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: UWEGAMES
-description: "Games development from an elder's persepective."
+title: Hellow
+description: "Nothing"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/portfolio/" #important: start with /
 url: "/https://lbondi7.github.io/portfolio/"
@@ -63,10 +63,10 @@ email:
 
 # Members information. Shown on About page.
 members:
-  - name: Lewis Bond
-    position: Da Man!
-    text: I am a keen and passionate games developer, whose love of programming extends to mentoring others to allow them to develop games for themselves.
-    img: profile_1.jpg
+  - name: Hello
+    position: 
+    text: 
+    img: 
     social:
       - title: envelope #use for email address
         url: 
