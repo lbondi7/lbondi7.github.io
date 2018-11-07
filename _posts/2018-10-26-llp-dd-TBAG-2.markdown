@@ -14,7 +14,7 @@ published: true
 # Text Based Adventure Game
 
 <figure>
-    <a href="/assets/img/BlogPosts/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/BlogPosts/TxBsdAdvenBlog/coverPage.png"></a>
+    <a href="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"></a>
     <figcaption></figcaption>
 </figure>
 <br/>
@@ -27,7 +27,7 @@ The BASIC version of the game has a few bugs or bad gameplay choices. These incl
 ## Game Planning
 
 <figure>
-    <a href="/assets/img/BlogPosts/TxBsdAdvenBlog/TextAdventureGameLayout.jpg"><img src="/assets/img/BlogPosts/TxBsdAdvenBlog/TextAdventureGameLayout.jpg"></a>
+    <a href="/assets/img/blog/TxBsdAdvenBlog/TextAdventureGameLayout.jpg"><img src="/assets/img/blog/TxBsdAdvenBlog/TextAdventureGameLayout.jpg"></a>
     <figcaption></figcaption>
 </figure>
 
@@ -58,4 +58,4 @@ Items
 • Flashlight (insert batteries into broken flashlight)
 ~~~
 <br/>
-[PREVIOUS BLOG POST](https://lbondi7.github.io/llp-dd-TBAG-1/){: .btn}  [NEXT BLOG POST](https://lbondi7.github.io/llp-dd-TBAG-3/){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/post/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-1){: .btn}  [NEXT BLOG POST](https://lbondi7.github.io/post/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-3){: .btn}
