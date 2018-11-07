@@ -4,13 +4,9 @@ title:  "Networking: A brief discussion and some thoughts"
 date:   2017-07-18 16:54:46
 author: James Huxtable
 categories: 
-- Blog
-- Networking
-- Development
-- Crackers
 img: post02.jpg
 thumb: quake_thumb.jpg
-published: true
+published: false
 ---
 
 <b>Networking</b> is quite rightly known for being one of the most difficult areas of gameplay to implement. In this post we'll look at some of the common techniques and technologies used to create multi-player experiences, both over WAN and LAN. <!--more-->
