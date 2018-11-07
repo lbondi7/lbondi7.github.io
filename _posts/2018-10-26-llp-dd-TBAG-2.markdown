@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Text Based Adventure Game  Dev Diary: Planning"
+date:   2018-10-26
+author: Lewis Bond
+categories: [Post, Developer Diary, Low Level Programming Dev Diary, Text Based Adventure Dev Diary]
+img: /TxBsdAdvenBlog/coverPage.png
+thumb: /TxBsdAdvenBlog/coverPage.png
+published: true
+---
+
+<!--more-->
+
+# Text Based Adventure Game
+
+<figure>
+    <a href="/assets/img/BlogPosts/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/BlogPosts/TxBsdAdvenBlog/coverPage.png"></a>
+    <figcaption></figcaption>
+</figure>
+<br/>
+This will be a first update on the text based adventure game I am working on. 
+
+## Update
+
+The BASIC version of the game has a few bugs or bad gameplay choices. These include not being able to erase an input after it has been typed, when you are in the room with the scroll bats attack you and you need the aerosol can to escape. If the you keep inputting "W" then after 2 or 3 times it will allow to escape that room. Some bad gameplay choices are that when the player goes to the marsh you get stuck and can't move unless you have the so the player has to restart the game. This is also the same with getting the painting. If the player goes there before getting the scroll then the player can't get out because they don't know the magic word.
+
+## Game Planning
+
+<figure>
+    <a href="/assets/img/BlogPosts/TxBsdAdvenBlog/TextAdventureGameLayout.jpg"><img src="/assets/img/BlogPosts/TxBsdAdvenBlog/TextAdventureGameLayout.jpg"></a>
+    <figcaption></figcaption>
+</figure>
+
+<br/>
+The image above shows the layout for my abandoned ship. The idea is there are certain areas that require certain items to get namely "Space" as the player will require a spacesuit in order to gain access to this room. The list below are all the items that are going to be available.
+
+~~~
+Items
+• Map (Operations Room)
+• Empty Gun (Armoury)
+• Bullets (Ammunition Room)
+• Crowbar (Loading Bay)
+• Knife (Kitchen)
+• Banana (Canteen)
+• Key (Swimming Pool)
+• Water Breather (Upper Gun Deck)
+• ID Card (Bedroom 2)
+• Air-Tight Suit (Engine Store Room)
+• Oxygen Tank (Detainment Cell 2)
+• Broken Flashlight (Bedroom 3)
+• Batteries (Upper Observatory)
+• Med-kit (Sick Bay)
+• Captain Pass (Captain’s Office)
+• Rope (Destroyed Elevator)
+• Engine Drive (Experiment Room 3)
+• Spacesuit (Attach Oxygen Tank to Air-Tight Suit)
+• Gun (Insert bullets into empty gun)
+• Flashlight (insert batteries into broken flashlight)
+~~~
+<br/>
+[PREVIOUS BLOG POST](https://lbondi7.github.io/llp-dd-TBAG-1/){: .btn}  [NEXT BLOG POST](https://lbondi7.github.io/llp-dd-TBAG-3/){: .btn}
