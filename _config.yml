@@ -5,7 +5,7 @@ title: UWEGAMES
 description: "Games development from an elder's persepective."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/solid-jekyll" #important: start with /
-url: "https://HuxyUK.github.io/solid-jekyll"
+url: "https://jekyll_lbondi_7.github.io"
 
 # Build settings
 highlighter: rouge
@@ -52,10 +52,10 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - University of the West of England,
-    - Frenchay Campus, Bristol, BS16 1QY,
+    - 
+    - 
     - United Kingdom.
-email: james2.huxtable@uwe.ac.uk
+email: 
 
 
 
@@ -63,15 +63,15 @@ email: james2.huxtable@uwe.ac.uk
 
 # Members information. Shown on About page.
 members:
-  - name: James Huxtable
+  - name: Lewis Bond
     position: Da Man!
     text: I am a keen and passionate games developer, whose love of programming extends to mentoring others to allow them to develop games for themselves.
     img: profile_1.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:james2.huxtable@uwe.ac.uk
-      - title: twitter
-        url: http://twitter.com/HuxyUK
+        url: 
+      - title: 
+        url: 
  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Those who can do and those who can't teach games design."
