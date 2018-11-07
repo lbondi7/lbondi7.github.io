@@ -4,8 +4,8 @@
 title: UWEGAMES
 description: "Games development from an elder's persepective."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/" #important: start with /
-url: "https://jekyll_lbondi_7.github.io"
+baseurl: "/portfolio/" #important: start with /
+url: "/https://lbondi7.github.io/portfolio/"
 
 # Build settings
 highlighter: rouge
