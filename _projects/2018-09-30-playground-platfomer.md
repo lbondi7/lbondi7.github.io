@@ -4,18 +4,42 @@ title:  "PLAYGROUND PLATFORMER"
 date:   2018-09-30
 author: Lewis Bond
 categories:[Project, C++, Playground Platformer, ASGE, Visual Studio Project]
-img: /PlaygroundPlatformer/logo.png
+img: /PlaygroundPlatformer/PPlogo.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-tagged: Games
-client: None
-website: http://blacktie.co
+- /PlaygroundPlatformer/MainMenu.PNG
+- /PlaygroundPlatformer/InGameSingleplayer.png
+- /PlaygroundPlatformer/EndScreenSingleplayer.PNG
+tagged: Games, C++, ASGE, Fun
 published: true
 ---
-#### YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+**Playground Platformer** is a game I designed during summer 2018. It was made in visual studio using the ASGE framework I have been working with the previous year.
 
-#### Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+---
+
+## Image Preview
+
+<center>
+	<figure class="half">
+    		<a href="/assets/img/project/PlaygroundPlatformer/InGameSingleplayer.png"><img src="/assets/img/project/PlaygroundPlatformer/InGameSingleplayer.png" width="200"></a>
+	<a href="/assets/img/project/PlaygroundPlatformer/InGameMultiplayer.png"><img src="/assets/img/project/PlaygroundPlatformer/InGameMultiplayer.png" width="200"></a>
+	<figcaption></figcaption>
+</figure>
+</center>
+
+---
+
+## Features
+
+It is a single and multiplayer game (local 2 player) where the aim is to get the highest score possible whilst without falling down. It is a endless platformer with a leaderboard so you can see where you have placed. This can be check via the main menu or right after the plaer loses as it displays the leaderboard with your position form the current attempt (if your score was high enough).
+
+---
+
+## Game Mechanics
+
+Some of the game mechanics are the moving left, right and jumping but also include wall jumping, boosting and knock back.<br/><br/>
+**Wall Jump** - The player can jump of either side of the game scene so if a platform is too far up to jump straight up there the player could use the wall to jump off and gain extra height.<br/><br/>
+**Boost** - The boost is a horizontal boost left or right which enables the player to dash to platforms that they otherwise wouldn't be able to reach with a normal jump.<br/><br/>
+**Knock Back** - This is only available in the multiplayer mode where the players can knock each other back with a by hitting them. If this happens the player that got hit will be forced backwards and slightly upwards potentially forcing them off the platform and into danger. Careful though both players both hit each at teh same time causing both players to be knocked back so if you want to go for a knock back you could potentially rick being hit back yourself.<br/><br/><br/>
+
+
+**This game was made for educatonal purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 
