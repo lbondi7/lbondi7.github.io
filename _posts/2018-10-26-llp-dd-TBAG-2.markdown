@@ -13,13 +13,6 @@ published: true
 
 # Text Based Adventure Game
 
-<figure>
-    <a href="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"></a>
-    <figcaption></figcaption>
-</figure>
-<br/>
-This will be a first update on the text based adventure game I am working on. 
-
 ## Update
 
 The BASIC version of the game has a few bugs or bad gameplay choices. These include not being able to erase an input after it has been typed, when you are in the room with the scroll bats attack you and you need the aerosol can to escape. If the you keep inputting "W" then after 2 or 3 times it will allow to escape that room. Some bad gameplay choices are that when the player goes to the marsh you get stuck and can't move unless you have the so the player has to restart the game. This is also the same with getting the painting. If the player goes there before getting the scroll then the player can't get out because they don't know the magic word.
