@@ -10,7 +10,7 @@ published: true
 ---
 
 <!--more-->
-
+# Text Based Adventure Game
 ## Interacting With Items
 For interacting with my items I had one way of doing it and implemented that. It involved having all teh item interaction in the player cpp but my lecturer James said it wasn't a very object oriented approach so I decided to switch it up. I put the data needed for the items in txt files similarly to my rooms. I then read the data in from the files and set up each item using them. 
 
