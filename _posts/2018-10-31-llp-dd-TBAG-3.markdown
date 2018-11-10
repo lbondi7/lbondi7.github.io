@@ -12,13 +12,6 @@ published: true
 
 # Text Based Adventure Game
 
-<figure>
-    <a href="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"></a>
-    <figcaption></figcaption>
-</figure>
-<br/>
-This will be the second update on the text based adventure game I am working on. 
-
 ## Storing Room Data
 
 I am reading in the room information from a txt file. I have set up a the txt file to contain the information about the room in the format as follows:
