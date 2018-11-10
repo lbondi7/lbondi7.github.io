@@ -3,13 +3,23 @@ layout: project
 title:  "PLAYGROUND PLATFORMER"
 date:   2018-09-30
 author: Lewis Bond
-categories:[Project, C++, Playground Platformer, ASGE, Visual Studio Project]
+categories:
+- Project
+- C++ 
+- Playground Platformer 
+- ASGE 
+- Visual Studio Project
 img: /PlaygroundPlatformer/PPlogo.png
+thumb: thumb02.jpg
 carousel:
 - /PlaygroundPlatformer/MainMenu.PNG
 - /PlaygroundPlatformer/InGameSingleplayer.png
 - /PlaygroundPlatformer/EndScreenSingleplayer.PNG
 tagged: Games, C++, ASGE, Fun
+thumb: thumb02.jpg
+tagged: C++, Engines, Development
+website: https://github.com/lbondi7
+abstract: A simple 2D platformer
 published: true
 ---
 **Playground Platformer** is a game I designed during summer 2018. It was made in visual studio using the ASGE framework I have been working with the previous year.
