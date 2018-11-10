@@ -13,12 +13,6 @@ published: true
 
 # Text Based Adventure Game
 
-<figure>
-    <a href="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"></a>
-    <figcaption></figcaption>
-</figure>
-<br/>
-
 ## Navigating the ship
 For navigating the ship I had pretty good idea of how I was going to do this as I covered it breifly in my last post. 
 
@@ -44,4 +38,4 @@ I instantiated two room objects from my room class. A "current room" object and 
 ~~~
 The code example above is how I did it. So the next room gets updated with the number from 'current_room->roomExits(i)' and if it is a viable exit then that number will be between 0-48. It then updates the 'next_rooms' values with the data from the element of the vector, mentioned in the previous post, corresponding to the number that was passed in.
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/post/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-3){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/post/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-3){: .btn}[NEXT BLOG POST](https://lbondi7.github.io/post/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-5){: .btn}
