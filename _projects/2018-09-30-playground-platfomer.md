@@ -1,10 +1,9 @@
 ---
 layout: project
-title:  "My Unreal Plugin"
-date:   2014-04-25 16:54:46
-author: James Huxtable
-categories:
-- project
+title:  "PLAYGROUND PLATFORMER"
+date:   2018-09-30
+author: Lewis Bond
+categories:[Project, C++, Playground Platformer, ASGE, Visual Studio Project]
 img: /PlaygroundPlatformer/logo.png
 carousel:
 - single01.jpg
