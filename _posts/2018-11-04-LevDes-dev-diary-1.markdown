@@ -3,7 +3,7 @@ layout: post
 title:  "Level Design Developer's Diary: Start"
 date:   2018-11-04
 author: Lewis Bond
-categories: [Post, Developer Diary, Level Design Developer Diary, Level Design Assessment]
+categories: [Post, Developer Diary, Level Design Developer Diary]
 img: /LevelDesignDevDiary/LevelDesign.png
 thumb: /LevelDesignDevDiary/LevelDesign.png
 published: true
@@ -35,4 +35,4 @@ The player should have challenges to overcome such as obstcales or enemies but t
 #### Progression
 The game should keep the player interested and want to play but also how will the level allow the player to progress and then retreat at the end but not before then.
 
-[NEXT BLOG POST](https://lbondi7.github.io/post/developer%20diary/level%20design%20developer%20diary/level%20design%20assessment/LevDes-dev-diary-2){: .btn}
+[NEXT BLOG POST](https://lbondi7.github.io/post/developer%20diary/level%20design%20developer%20diary/LevDes-dev-diary-2){: .btn}
