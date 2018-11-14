@@ -19,6 +19,7 @@ The plan for my level is to make it 4 stages. The town, the cave, the weird loca
 
 ### The Town
 
+
 <center>
 <figure>
         <a href="/assets/img/blog/LevelDesignDevDiary/TownPlan.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/TownPlan.jpg" width="300"></a>
@@ -30,6 +31,7 @@ The player will enter the town from the beach then have to explore the houses. O
 
 ### The Cave
 
+
 <center>
 <figure>
         <a href="/assets/img/blog/LevelDesignDevDiary/CavePlan.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/CavePlan.jpg" width="300"></a>
@@ -40,6 +42,7 @@ The player will enter the town from the beach then have to explore the houses. O
 The layout of the cave is meant to seem like a mini maze but actually guide the player in certain direction. Some areas will hvae tokens or crystals in them which the player will use to open the portal at the end.
 
 ### The Weird Location
+
 
 <center>
 <figure>
