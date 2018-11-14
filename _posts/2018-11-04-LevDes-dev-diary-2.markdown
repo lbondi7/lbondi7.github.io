@@ -3,7 +3,7 @@ layout: post
 title:  "Level Design Developer's Diary: Initial Ideas"
 date:   2018-11-04
 author: Lewis Bond
-categories:  [Post, Developer Diary, Level Design Developer Diary, Level Design Assessment]
+categories:  [Post, Developer Diary, Level Design Developer Diary]
 img: /LevelDesignDevDiary/LevelDesign.png
 thumb: /LevelDesignDevDiary/LevelDesign.png
 published: true
@@ -37,5 +37,5 @@ The images below are initial drawings of how the town will look and feel. It wil
 </figure>
 </center>
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/post/developer%20diary/level%20design%20developer%20diary/level%20design%20assessment/LevDes-dev-diary-1){: .btn}
-[NEXT BLOG POST](https://lbondi7.github.io/post/developer%20diary/level%20design%20developer%20diary/level%20design%20assessment/LevDes-dev-diary-3){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/post/developer%20diary/level%20design%20developer%20diary/LevDes-dev-diary-1){: .btn}
+[NEXT BLOG POST](https://lbondi7.github.io/post/developer%20diary/level%20design%20developer%20diary/LevDes-dev-diary-3){: .btn}
