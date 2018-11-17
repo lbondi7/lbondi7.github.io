@@ -4,13 +4,12 @@ title:  "TEXT BASED ADEVNTURE GAME"
 date:   2018-11-17 15:02:00
 author: Lewis Bond
 categories: [Project, C++, ASGE, LLP, University, Clion]
+website: https://github.com/lbondi7
 img: /LLP/TxtBsdAdven/TBAGMenu.PNG
 carousel:
 - /TxtBsdAdven/TBAG_pic1.png
 - /TxtBsdAdven/TBAG_pic2.png
 - /TxtBsdAdven/TBAG_map.png
-tagged: Games, C++, ASGE, Fun
-website: https://github.com/lbondi7
 abstract: A text based adeventure game on an abandoned spaceship
 published: true
 ---
