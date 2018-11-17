@@ -38,15 +38,13 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
+  - title: youtube
+    url: https://www.youtube.com/channel/UCRCJfDqDv8wis2kY3rhWpVQ?view_as=subscriber
+  - title: github
+    url: https://github.com/lbondi7
   - title: facebook
     url:
   - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
     url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
