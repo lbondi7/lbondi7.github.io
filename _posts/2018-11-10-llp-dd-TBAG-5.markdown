@@ -25,4 +25,4 @@ For interacting with my items I had one way of doing it and implemented that. It
 
 The code example sample is how I did it. I used the file system I created to read the data from the file and stored it all in a vector. The 'file.returnTxtData(0)' then returns the data located at the part of the vector asked for which is the '0'. This then returns teh data which should be the item name if the txt file was set-up right.
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-4){: .btn}[TEXT BASED ADVENTURE - POST MORTEM](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/post%20mortem/llp-dd-TBAG-6){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-4){: .btn}[TEXT BASED ADVENTURE - POST MORTEM](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/post%20mortem/llp-dd-TBAG-post_mortem){: .btn}
