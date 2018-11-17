@@ -13,9 +13,13 @@ carousel:
 - /TxtBsdAdven/TBAG_map.png
 abstract: A text based adeventure game on an abandoned spaceship
 published: true
+
 ---
+
 ## Text Based 
+
 ---
+
 ## Features
 
 It is set on a abandoned ship which the player has to escape. It has multiple endings where teh player can die, can escape into space and can escape to a planet. Each ending gives a different score multiplier which is applied when the game ends. To escape the player has to pick up items which adds to their score but also allows them to explore the ship as some areas are restricted till the player has an item. 
@@ -27,16 +31,21 @@ It is set on a abandoned ship which the player has to escape. It has multiple en
 </figure>
 </center>
 ---
+
 ## What I Learned
 
 I learned how to use a new IDE called Clion which is industry standard and also allows me to make games cross platform a lot easier. It consolidated my understanding of pointers which improved my understanding and usage of memory management.
+
 ---
+
 ## Gameplay
 
 <p style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l131Fc57Yfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
 ---
+
 #### Links
 
 [Dev Diary](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-1)
@@ -44,4 +53,5 @@ I learned how to use a new IDE called Clion which is industry standard and also 
 [Gameplay Video](https://www.youtube.com/watch?v=l131Fc57Yfs)
 
 ---
+
 **This game was made for educatonal purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 
