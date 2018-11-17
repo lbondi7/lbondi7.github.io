@@ -38,7 +38,8 @@ published: true
 ## What I Learned
 <ul>
 <li>I realised how much fun coding a text based adventure is even though it can be quite fidily. If you let your imagination do a lot of the work, with a text based adventure it is very easy to code what you want.</li>
-<li>It consilidated my understandting of pointers and how to use them as well as introducing me to component based way of programming as I was constatly discussing with my lecturer how he would write it out.</li>
+<li>It consolidated my understandting of pointers and how to use them as well</li>
+<li>It was also helpful in introducing me to a component based way of programming as I was constantly discussing with my lecturer how he would write it out. This ended up being very helpful and insightful on how someone with years of experience would do it.</li>
 </ul>
 
 [PREVIOUS BLOG POST](https://lbondi7.github.io/post/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-5){: .btn}
