@@ -5,7 +5,7 @@ date:   2018-11-16
 author: Lewis Bond
 categories: [Developer Diary, Low Level Programming Dev Diary, Text Based Adventure Dev Diary, Post Mortem]
 img: /TxBsdAdvenBlog/coverPage.png
-thumb: /LLP/TxtBsdAdv/coverPage.png
+thumb: /LLP/TxtBsdAdv/coverPageSmall.png
 published: true
 ---
 
