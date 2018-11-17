@@ -3,8 +3,8 @@ layout: project
 title:  "TEXT BASED ADEVNTURE GAME"
 date:   2018-11-17 15:02:00
 author: Lewis Bond
-categories: Project, C++, ASGE, LLP, University, Clion
-tagged: Fun, ASGE, Clion, Education
+categories: Project
+tagged: Fun, ASGE, C++, Clion, LLP, University
 website: https://github.com/lbondi7
 img: /LLP/TxtBsdAdven/TBAGMenu.PNG
 carousel:
