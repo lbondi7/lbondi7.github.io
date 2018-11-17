@@ -51,7 +51,7 @@ I learned how to use a new IDE called Clion which is industry standard and also 
 
 [Dev Diary](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-1)
 
-[Post Mortem](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/post%20mortem/llp-dd-TBAG-6)
+[Post Mortem](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/post%20mortem/llp-dd-TBAG-post_mortem)
 
 [Gameplay Video](https://www.youtube.com/watch?v=l131Fc57Yfs)
 
