@@ -3,9 +3,9 @@ layout: post
 title:  "Text Based Adventure Game  Dev Diary: Storing Room Data"
 date:   2018-10-31
 author: Lewis Bond
-categories: [Post, Developer Diary, Low Level Programming Dev Diary, Text Based Adventure Dev Diary]
+categories: [Developer Diary, Low Level Programming Dev Diary, Text Based Adventure Dev Diary]
 img: /TxBsdAdvenBlog/coverPage.png
-thumb: /TxBsdAdvenBlog/coverPage.png
+thumb: /LLP/TxtBsdAdv/coverPage.png
 published: true
 ---
 <!--more-->
