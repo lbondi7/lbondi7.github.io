@@ -30,6 +30,7 @@ It is set on a abandoned ship which the player has to escape. It has multiple en
     <figcaption>This just shows a snippet of the game.</figcaption>
 </figure>
 </center>
+
 ---
 
 ## What I Learned
