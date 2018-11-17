@@ -3,9 +3,9 @@ layout: post
 title:  "Text Based Adventure Game Dev Diary: Post Mortem"
 date:   2018-11-16
 author: Lewis Bond
-categories: [Post, Developer Diary, Low Level Programming Dev Diary, Text Based Adventure Dev Diary, Post Mortem]
+categories: [Developer Diary, Low Level Programming Dev Diary, Text Based Adventure Dev Diary, Post Mortem]
 img: /TxBsdAdvenBlog/coverPage.png
-thumb: /TxBsdAdvenBlog/coverPage.png
+thumb: /LLP/TxtBsdAdv/coverPage.png
 published: true
 ---
 
