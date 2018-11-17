@@ -34,4 +34,16 @@ It is set on a abandoned ship which the player has to escape. It has multiple en
 
 I learned how to use a new IDE called Clion which is industry standard and also allows me to make games cross platform a lot easier. It consolidated my understanding of pointers which improved my understanding and usage of memory management.
 
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=l131Fc57Yfs?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>
+
+#### Links
+
+[Dev Diary](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-1)
+
+[Post Mortem](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/post%20mortem/llp-dd-TBAG-6)
+
+[Gameplay Video](https://www.youtube.com/watch?v=l131Fc57Yfs)
+
 **This game was made for educatonal purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 
