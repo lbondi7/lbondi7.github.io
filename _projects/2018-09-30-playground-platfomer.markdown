@@ -3,7 +3,7 @@ layout: project
 title:  "PLAYGROUND PLATFORMER"
 date:   2018-09-30
 author: Lewis Bond
-categories: [Project, C++, ASGE, Playground Platformer, Playground Platformer, Visual Studio]
+categories: Project, C++, ASGE, Playground Platformer, Visual Studio
 tagged: Games, C++, ASGE, Fun
 website: https://github.com/lbondi7
 img: /PlaygroundPlatformer/PPlogo.png
