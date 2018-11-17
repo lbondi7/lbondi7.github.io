@@ -12,6 +12,13 @@ published: true
 <!--more-->
 # Text Based Adventure Game
 
+<center>
+<figure>
+    <a href="/assets/img/blog/TxBsdAdvenBlog/TBAG.gif"><img src="/assets/img/blog/TxBsdAdvenBlog/TBAG.gif"></a>
+    <figcaption>This just shows a snippet of the game.</figcaption>
+</figure>
+</center>
+
 ## Pros
 <ul>
 <li>The scene manager worked well was my code for the game was separate from my menu so it was much cleaner.</li>
@@ -41,5 +48,6 @@ published: true
 <li>It consolidated my understandting of pointers and how to use them as well</li>
 <li>It was also helpful in introducing me to a component based way of programming as I was constantly discussing with my lecturer how he would write it out. This ended up being very helpful and insightful on how someone with years of experience would do it.</li>
 </ul>
+
 
 [PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-5){: .btn}
