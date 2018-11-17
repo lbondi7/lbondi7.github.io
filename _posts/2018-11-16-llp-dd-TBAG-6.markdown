@@ -40,7 +40,7 @@ published: true
 <ul>
     <li>I could of added images to the game just to make it more pleasing and improve the feel of it. Maybe just a little pip boy character at the side if I wanted to go down the full fallout route.</li>
     <li>I would of changed some of my reading in from files as even though it was good it could of been optimised a lot more.</li>
-    <li>I definately improve my map so it blended in more with the background image and was more understandable.</li>
+    <li>I definately would improve my map so it blended in more with the background image and was more understandable.</li>
 </ul>
 
 ## What I Learned
