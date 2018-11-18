@@ -43,5 +43,10 @@ Some of the game mechanics are the moving left, right and jumping but also inclu
 **Boost** - The boost is a horizontal boost left or right which enables the player to dash to platforms that they otherwise wouldn't be able to reach with a normal jump.<br/><br/>
 **Knock Back** - This is only available in the multiplayer mode where the players can knock each other back with a by hitting them. If this happens the player that got hit will be forced backwards and slightly upwards potentially forcing them off the platform and into danger. Careful though both players both hit each at teh same time causing both players to be knocked back so if you want to go for a knock back you could potentially rick being hit back yourself.<br/><br/><br/>
 
+---
+
+## Playground Platformer Gameplay Video
+
+<iframe width="560" height="315 src="https://www.youtube.com/embed/nudqdNj6-Xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **This game was made for educatonal purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 
