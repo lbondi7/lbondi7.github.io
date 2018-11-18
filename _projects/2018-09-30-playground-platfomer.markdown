@@ -47,6 +47,8 @@ Some of the game mechanics are the moving left, right and jumping but also inclu
 
 ## Playground Platformer Gameplay Video
 
+<p style="text-align: center">
 <iframe width="560" height="315 src="https://www.youtube.com/embed/nudqdNj6-Xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 **This game was made for educatonal purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 
