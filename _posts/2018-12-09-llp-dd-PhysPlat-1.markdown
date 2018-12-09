@@ -27,5 +27,5 @@ Form a group of 4 and come up with a game idea based on the film Ex-Machina. Pro
 </figure>
 <br/>
 
-**Spolier warning!** The film is about a millionaire who invents an AI and then invites one of his employees to take a turing test on the AI to see if it can pass as a human. Some themes in the film were isolation, evolution, mainpulation and playing god. So the game idea we decided on was a physics platformer based on the themes being a god and manipulation.
+**Spoiler warning!** The film is about a millionaire who invents an AI and then invites one of his employees to take a turing test on the AI to see if it can pass as a human. Some themes in the film were isolation, evolution, mainpulation and playing god. So the game idea we decided on was a physics platformer based on the themes being a god and manipulation.
 
