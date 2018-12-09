@@ -19,7 +19,7 @@ published: true
 <br/>
 Form a group of 4 and come up with a game idea based on the film Ex-Machina. Produce a GDD and a TDD, the game, worklogs and a trailer for the game. 
 
-## Text Based Adventure
+## Physics Platformer
 
 <figure>
     <a href="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"></a>
