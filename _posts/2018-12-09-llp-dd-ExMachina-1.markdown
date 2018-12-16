@@ -4,8 +4,8 @@ title:  "Ex-Machina Game Dev Diary: Assignment"
 date:   2018-12-09
 author: Lewis Bond
 categories: [Developer Diary, Low Level Programming Dev Diary, Ex-Machina Dev Diary]
-img: /Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.png
-thumb: /Uni/LLP/Ex_Machina/Ex-Machina.png
+img: /Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg
+thumb: /Uni/LLP/Ex_Machina/Ex-Machina.jpg
 published: true
 ---
 <!--more-->
@@ -13,7 +13,7 @@ published: true
 # Assignment
 
 <figure>
-   <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.png"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.png"></a>
+   <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg"></a>
 	<figcaption></figcaption>
 </figure>
 <br/>
@@ -22,7 +22,7 @@ Form a group of 4 and come up with a game idea based on the film Ex-Machina. Pro
 ## Physics Platformer
 
 <figure>
-    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.png"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.png"></a>
+    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg"></a>
     <figcaption></figcaption>
 </figure>
 <br/>
