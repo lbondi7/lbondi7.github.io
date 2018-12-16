@@ -18,8 +18,8 @@ I formed a team with my classmates Evan, Tom and Jack. We had a few initial idea
 
 <center>
 	<figure class="half">
-	    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Geometry_Dash.jpg"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Geometry_Dash.jpg" height="300"></a>
-			    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/HotlineMiami.jpg"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/HotlineMiami.jpg" height="300"></a>
+	    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Geometry_Dash.jpg"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Geometry_Dash.jpg" height="200"></a>
+			    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/HotlineMiami.jpg"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/HotlineMiami.jpg" height="200"></a>
 	    <figcaption>Geometry Dash and Hotline Miami are both games that follow the art style that we chose for our game.</figcaption>
 	</figure>
 </center>
