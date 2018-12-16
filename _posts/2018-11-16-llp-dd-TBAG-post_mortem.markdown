@@ -4,8 +4,8 @@ title:  "Text Based Adventure Game Dev Diary: Post Mortem"
 date:   2018-11-16
 author: Lewis Bond
 categories: [Developer Diary, Low Level Programming Dev Diary, Text Based Adventure Dev Diary, Post Mortem]
-img: /TxBsdAdvenBlog/coverPage.png
-thumb: /LLP/TxtBsdAdv/coverPageSmall.png
+img: /Uni/LLP/TxBsdAdvenBlog/coverPage.png
+thumb: /Uni/LLP/TxtBsdAdv/coverPageSmall.png
 published: true
 ---
 
@@ -14,7 +14,7 @@ published: true
 
 <center>
 <figure>
-    <a href="/assets/img/blog/TxBsdAdvenBlog/TBAG.gif"><img src="/assets/img/blog/TxBsdAdvenBlog/TBAG.gif"></a>
+    <a href="/assets/img/blog/Uni/LLP/TxBsdAdvenBlog/TBAG.gif"><img src="/assets/img/blog/Uni/LLP/TxBsdAdvenBlog/TBAG.gif"></a>
     <figcaption>This just shows a snippet of the game.</figcaption>
 </figure>
 </center>

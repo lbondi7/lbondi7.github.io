@@ -4,8 +4,8 @@ title:  "Text Based Adventure Game Dev Diary: Navigating The Ship"
 date:   2018-11-07
 author: Lewis Bond
 categories: [Developer Diary, Low Level Programming Dev Diary, Text Based Adventure Dev Diary]
-img: /TxBsdAdvenBlog/coverPage.png
-thumb: /LLP/TxtBsdAdv/coverPageSmall.png
+img: /Uni/LLP/TxBsdAdvenBlog/coverPage.png
+thumb: /Uni/LLP/TxtBsdAdv/coverPageSmall.png
 published: true
 ---
 
@@ -19,7 +19,7 @@ For navigating the ship I had pretty good idea of how I was going to do this as 
 I instantiated two room objects from my room class. A "current room" object and a "next room" object. I did this so it would render the current rooms information to the screen and the "next room" was for checking if the room I wanted to go into was safe or required an item to access it.
 
 <figure>
-    <a href="/assets/img/blog/TxBsdAdvenBlog/NavigatingShip.gif"><img src="/assets/img/blog/TxBsdAdvenBlog/NavigatingShip.gif"></a>
+    <a href="/assets/img/blog/Uni/LLP/TxBsdAdvenBlog/NavigatingShip.gif"><img src="/assets/img/blog/Uni/LLP/TxBsdAdvenBlog/NavigatingShip.gif"></a>
     <figcaption>This shows the current room information being renderer and then when the player tries to move into the next room, they can't due to the next room requiring an item to access it.</figcaption>
 </figure>
 

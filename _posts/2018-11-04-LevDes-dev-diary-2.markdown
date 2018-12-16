@@ -4,8 +4,8 @@ title:  "Level Design Developer's Diary: Initial Ideas"
 date:   2018-11-04
 author: Lewis Bond
 categories:  [Developer Diary, Level Design Developer Diary]
-img: /LevelDesignDevDiary/LevelDesign.png
-thumb: /LvlDes/LevelDesignSmall.png
+img: /Uni/GLD/LevelDesignDevDiary/LevelDesign.png
+thumb: /Uni/LvlDes/LevelDesignSmall.png
 published: true
 ---
 
@@ -20,7 +20,7 @@ I was reading over the stories and ideas that the project is inspired by. All of
 For my level I was making the I thinking of making the island have heavy fog cover the whole island so the player has a sense of uncertainty all the time with it being set during the night to add even more unease. The boat the player arrives on is pretty small with it being controlled by a mysterious guy who warns the about the island and the people who live there. The island will be very rocky, with the town far above sea level as it is a island off Scotland.
 <center>
 <figure>
-        <a href="/assets/img/blog/LevelDesignDevDiary/LDAssIslandandBeachDesigns.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/LDAssIslandandBeachDesigns.jpg" width="300"></a>
+        <a href="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/LDAssIslandandBeachDesigns.jpg"><img src="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/LDAssIslandandBeachDesigns.jpg" width="300"></a>
     <figcaption>These drawing on top is of the island and how it will be compared to the boat and the on the lower one is of the beach where the player will arrive at off the boat.</figcaption>
 </figure>
 </center>
@@ -30,8 +30,8 @@ The images below are initial drawings of how the town will look and feel. It wil
 
 <center>
 	<figure class="half">
-	<a href="/assets/img/blog/LevelDesignDevDiary/LDAssLayout.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/LDAssLayout.jpg" width="200"></a>
-		<a href="/assets/img/blog/LevelDesignDevDiary/LDAssInitialTownDesign.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/LDAssInitialTownDesign.jpg" width="200"></a>
+	<a href="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/LDAssLayout.jpg"><img src="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/LDAssLayout.jpg" width="200"></a>
+		<a href="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/LDAssInitialTownDesign.jpg"><img src="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/LDAssInitialTownDesign.jpg" width="200"></a>
 	<figcaption>
 		The image on the right shows the layout of the town. The left one is the perspective of the player when they first 	see the town.</figcaption>
 </figure>

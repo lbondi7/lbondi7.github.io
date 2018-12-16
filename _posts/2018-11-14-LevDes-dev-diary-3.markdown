@@ -4,8 +4,8 @@ title:  "Level Design Developer's Diary: Level Plans"
 date:   2018-11-14
 author: Lewis Bond
 categories:  [Developer Diary, Level Design Developer Diary]
-img: /LevelDesignDevDiary/LevelDesign.png
-thumb: /LvlDes/LevelDesignSmall.png
+img: /Uni/GLD/LevelDesignDevDiary/LevelDesign.png
+thumb: /Uni/LvlDes/LevelDesignSmall.png
 published: true
 ---
 
@@ -22,7 +22,7 @@ The plan for my level is to make it 4 stages. The town, the cave, the weird loca
 
 <center>
 <figure>
-        <a href="/assets/img/blog/LevelDesignDevDiary/TownPlan.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/TownPlan.jpg" width="300"></a>
+        <a href="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/TownPlan.jpg"><img src="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/TownPlan.jpg" width="300"></a>
     <figcaption>This is a plan of the town and how it will be laid out.</figcaption>
 </figure>
 </center>
@@ -34,7 +34,7 @@ The player will enter the town from the beach then have to explore the houses. O
 
 <center>
 <figure>
-        <a href="/assets/img/blog/LevelDesignDevDiary/CavePlan.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/CavePlan.jpg" width="300"></a>
+        <a href="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/CavePlan.jpg"><img src="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/CavePlan.jpg" width="300"></a>
     <figcaption>This is a plan of the cave and how it will be laid out.</figcaption>
 </figure>
 </center>
@@ -46,7 +46,7 @@ The layout of the cave is meant to seem like a mini maze but actually guide the 
 
 <center>
 <figure>
-        <a href="/assets/img/blog/LevelDesignDevDiary/WeirdLocationPlan.jpg"><img src="/assets/img/blog/LevelDesignDevDiary/WeirdLocationPlan.jpg" width="300"></a>
+        <a href="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/WeirdLocationPlan.jpg"><img src="/assets/img/blog/Uni/GLD/LevelDesignDevDiary/WeirdLocationPlan.jpg" width="300"></a>
     <figcaption>This is a plan of the town and how it will be laid out.</figcaption>
 </figure>
 </center>

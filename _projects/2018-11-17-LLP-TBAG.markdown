@@ -6,11 +6,11 @@ author: Lewis Bond
 categories: Project
 tagged: Fun, ASGE, C++, Clion, LLP, University
 website: https://github.com/lbondi7
-img: /LLP/TxtBsdAdven/TBAGMenu.PNG
+img: /Uni/LLP/TxtBsdAdven/TBAGMenu.PNG
 carousel:
-- /TxtBsdAdven/TBAG_pic1.png
-- /TxtBsdAdven/TBAG_pic2.png
-- /TxtBsdAdven/TBAG_map.png
+- /Uni/LLP/TxtBsdAdven/TBAG_pic1.png
+- /Uni/LLP/TxtBsdAdven/TBAG_pic2.png
+- /Uni/LLP/TxtBsdAdven/TBAG_map.png
 abstract: A text based adeventure game on an abandoned spaceship
 published: true
 
@@ -26,7 +26,7 @@ It is set on a abandoned ship which the player has to escape. It has multiple en
 
 <center>
 <figure>
-    <a href="/assets/img/blog/TxBsdAdvenBlog/TBAG.gif"><img src="/assets/img/blog/TxBsdAdvenBlog/TBAG.gif"></a>
+    <a href="/assets/img/blog/Uni/LLP/TxBsdAdvenBlog/TBAG.gif"><img src="/assets/img/blog/Uni/LLP/TxBsdAdvenBlog/TBAG.gif"></a>
     <figcaption>This just shows a snippet of the game.</figcaption>
 </figure>
 </center>

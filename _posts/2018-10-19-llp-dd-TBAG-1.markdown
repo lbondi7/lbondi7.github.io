@@ -4,8 +4,8 @@ title:  "Text Based Adventure Game  Dev Diary: Assignment"
 date:   2018-10-19
 author: Lewis Bond
 categories: [Developer Diary, Low Level Programming Dev Diary, Text Based Adventure Dev Diary]
-img: /TxBsdAdvenBlog/coverPage.png
-thumb: /LLP/TxtBsdAdv/coverPageSmall.png
+img: /Uni/LLP/TxBsdAdvenBlog/coverPage.png
+thumb: /Uni/LLP/TxtBsdAdv/coverPageSmall.png
 published: true
 ---
 <!--more-->
@@ -13,7 +13,7 @@ published: true
 # Assignment
 
 <figure>
-   <a href="/assets/img/blog/TxBsdAdvenBlog/aims.png"><img src="/assets/img/blog/TxBsdAdvenBlog/aims.png"></a>
+   <a href="/assets/img/blog/Uni/LLP/TxBsdAdvenBlog/aims.png"><img src="/assets/img/blog/Uni/LLP/TxBsdAdvenBlog/aims.png"></a>
 	<figcaption></figcaption>
 </figure>
 <br/>
@@ -22,7 +22,7 @@ Rewrite the text based adventure game from BASIC into C++ and fix any bugs as we
 ## Text Based Adventure
 
 <figure>
-    <a href="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/blog/TxBsdAdvenBlog/coverPage.png"></a>
+    <a href="/assets/img/blog/Uni/LLP/TxBsdAdvenBlog/coverPage.png"><img src="/assets/img/blog/Uni/LLP/TxBsdAdvenBlog/coverPage.png"></a>
     <figcaption></figcaption>
 </figure>
 <br/>
