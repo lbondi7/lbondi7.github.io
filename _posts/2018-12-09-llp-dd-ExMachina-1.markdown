@@ -12,10 +12,12 @@ published: true
 
 # Assignment
 
-<figure>
-   <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg"></a>
-	<figcaption></figcaption>
-</figure>
+<center>
+	<figure>
+	   <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/brief.PNG"></a>
+		<figcaption></figcaption>
+	</figure>
+</center>
 <br/>
 Form a group of 4 and come up with a game idea based on the film Ex-Machina. Produce a GDD and a TDD, the game, worklogs and a trailer for the game. 
 
