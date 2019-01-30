@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ex-Machina Game Dev Diary: Enemy Size 2.0"
+title:  "Ex-Machina Game Dev Diary: Size Boss 2.0"
 date:   2019-01-23
 author: Lewis Bond
 categories: [Developer Diary, Low Level Programming Dev Diary, Ex-Machina Dev Diary]
