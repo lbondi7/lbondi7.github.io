@@ -16,7 +16,7 @@ In order for the level builder to be finished, I needed the player and enemies c
 
 ## Size Boss
 
-The aim for this level is too have the player get over diffferent obstacles whilst having the boss moving all over the screen and if it touches the player, they get reset back at the start of the level. The boss bounces all over the screen and when it gets to one point it change sizes to try and catch teh player out and reset them.
+The aim for this level is too have the player get over different obstacles whilst having the boss moving all over the screen and if it touches the player, they get reset back at the start of the level. The boss bounces all over the screen and when it gets to one point it change sizes to try and catch the player out and reset them.
 
 ### Code
 
