@@ -20,7 +20,7 @@ Instead of dashing in random directions, it would target the player and then aft
 
 To see an example of the Revek follow the link below.
 
-[HOLLOW KNIGHT EXAMPLE](https://youtu.be/dlFiPgPu2M8?t=124){: .btn}
+[HOLLOW KNIGHT EXAMPLE](https://youtu.be/dlFiPgPu2M8?t=124){: .btn}{:target="_blank" rel="noopener"}
 
 ### Code
 
