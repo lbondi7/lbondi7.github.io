@@ -10,13 +10,13 @@ published: true
 ---
 <!--more-->
 
-# Ex-Machina
+## Level Designer
 
 Since the game included a level I made a tried making a level builder to test it out as that is my main contribution to the project. A tool was made to help with the design of the levels so we can just drag and drop some objects and save us drawing out each level of our game. This allowed for me to test out a basic level builder as well. The tool was built using ASGE and free assets from kenny. 
 
 [Kenny Assets](https://www.kenney.nl/assets){: .btn}
 
-## The Tool (Level Builder Test)
+### The Tool (Images)
 
 <center>
 	<figure>
@@ -27,7 +27,7 @@ Since the game included a level I made a tried making a level builder to test it
   <br/>
   <center>
 	<figure>
-			    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/LevelBuilderScene.PNG"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/LevelBuilderScene.PNG" height="400"></a>
+	<a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/LevelBuilderScene.PNG"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/LevelBuilderScene.PNG" height="400"></a>
 	    <figcaption>The level builder is used to help us with designing levels.</figcaption>
 	</figure>
 </center>
