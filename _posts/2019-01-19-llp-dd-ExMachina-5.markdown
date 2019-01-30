@@ -10,11 +10,9 @@ published: true
 ---
 <!--more-->
 
-# Ex-Machina
+## Dash Boss
 
 Since the size changing bos was done (albeit temporarily done), the dash boss was next as we need to pick up the pace of the project. 
-
-## Dash Boss
 
 We had an idea about how the dash boss level would go. The player had to traverse different parts whilst teh dash would be randomly dashing to differnet parts of teh map and you had to avoid them. This is very similar to the size changing boss so it might be chagned to make it more unique and differnet to other bosses.
 
