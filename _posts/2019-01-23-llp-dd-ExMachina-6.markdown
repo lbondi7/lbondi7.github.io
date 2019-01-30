@@ -35,10 +35,10 @@ The previous code can be seen in a previous blog post but it showed a sample of 
 
 <center>
 	<figure>
-	    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/SizeBoss.Gif"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/SizeBoss.Gif" height="400"></a>
+	    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/SizeBoss.gif"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/SizeBoss.gif" height="400"></a>
 	    <figcaption>The menu is used to display the controls for the tool.</figcaption>
 	</figure>
 </center>
-  <br/>
+<br/>
 
 [PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-5){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-7){: .btn}
