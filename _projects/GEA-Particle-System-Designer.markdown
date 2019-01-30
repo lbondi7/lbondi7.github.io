@@ -28,8 +28,8 @@ This is a particle system deisgner that is made in ASGE. It allows a user to cre
 
 <center>
 <figure class = "half">
-    <a href="/assets/img/blog/Uni/GEA/ASGE_PS_2.png"><img src="/assets/img/blog/Uni/GEA/ASGE_PS_2.png" height="100"></a>
-      <a href="/assets/img/blog/Uni/GEA/ASGE_PS_5.png"><img src="/assets/img/blog/Uni/GEA/ASGE_PS_5.png" height="100"></a>
+    <a href="/assets/img/project/Uni/GEA/ASGE_PS_2.png"><img src="/assets/img/project/Uni/GEA/ASGE_PS_2.png" height="200"></a>
+      <a href="/assets/img/project/Uni/GEA/ASGE_PS_5.png"><img src="/assets/img/project/Uni/GEA/ASGE_PS_5.png" height="200"></a>
     <figcaption>This shows what some effects that the particles are doing.</figcaption>
 </figure>
 </center>
@@ -49,5 +49,3 @@ This is a particle system deisgner that is made in ASGE. It allows a user to cre
 [GAMPLAY VIDEO](https://www.youtube.com/embed/4_7P505BYMY){: .btn}
 
 ---
-
-**This game was made for educatonal purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 
