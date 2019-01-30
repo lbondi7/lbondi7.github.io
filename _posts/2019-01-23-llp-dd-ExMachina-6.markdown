@@ -10,11 +10,11 @@ published: true
 ---
 <!--more-->
 
-# Ex-Machina
+# Size Boss
 
 The size boss had been done before but it wasn't very good good in terms of optimisation and readability so I cleaned it up and changed a lot of it.  
 
-### Code
+## Code
 
 The previous code can be seen in a previous blog post but it showed a sample of the code which had a really unreadable if statement that waasn't necessary at all. Since it moves by a lerp a timer can just be used to as a checker for when to update its x and y position. Once the timer reaches the timeout value then it changes the state from MOVING to SIZE so then the size uses the lerp as well. The timer is also then reset back to 0 so it can start counting up again. Checking if the sprite hasn't reached it's destination isn't necessary anymore, because when the timer reaches the timeout function then the sprite will be at or very close to the intended desination due to the lerp. 
 
