@@ -33,10 +33,12 @@ The previous code can be seen in a previous blog post but it showed a sample of 
   }
 ~~~
 
+The gif below shows how the size boss will act in the game. It will move around then changes size and then repeat.
+
 <center>
 	<figure>
 	    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/SizeBoss.gif"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/SizeBoss.gif" height="400"></a>
-	    <figcaption>The menu is used to display the controls for the tool.</figcaption>
+	    <figcaption>The Size boss in action.</figcaption>
 	</figure>
 </center>
 <br/>
