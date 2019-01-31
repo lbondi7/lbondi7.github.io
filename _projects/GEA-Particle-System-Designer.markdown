@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Particel System Designer"
+title:  "Particle System Designer"
 date:   2019-01-10 15:02:00
 author: Lewis Bond
 categories: Project
