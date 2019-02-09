@@ -6,7 +6,7 @@ author: Lewis Bond
 categories: Project
 tagged: Fun, ASGE, C++, Visual Studio, GEA, University
 website: https://github.com/lbondi7
-img: /Uni/LLP/TxtBsdAdven/TBAGMenu.PNG
+img: /Uni/GEA/ParticleSystemExample.png
 carousel:
 - /Uni/GEA/ASGE_PS_1.png
 - /Uni/GEA/ASGE_PS_3.png
