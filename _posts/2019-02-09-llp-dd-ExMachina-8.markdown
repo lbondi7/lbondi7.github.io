@@ -21,7 +21,7 @@ I started on the level builder today. Its design is based of a mix of the level 
 	</figure>
 </center>
 
-### Problems
+### Problem
 
 A problem that I encaounted when starting the level builder was to do with vectors. I used vectors for my user interface for the level designer but this time when I tried to implment my 2D vector I wanted it kept crashes due to missing sprite when clearing the temporary vector I used to push into the 2D vector. The code I used is shown below.
 
@@ -40,7 +40,7 @@ A problem that I encaounted when starting the level builder was to do with vecto
 
 I couldn't figure out why there was a an problem with the sprite becuase the game objects in the vector weren't being given a sprite component at this point so it shouldn't be executing the code to delete the srpite of the game object. 
 
-## Solution
+### Solution
 
 I couldn't actually figure out what was this issue with the vector but in the end I used an array of game objects instead as I realised I didn't need a 2D vector as it would be wasting memory allocation. 
 
