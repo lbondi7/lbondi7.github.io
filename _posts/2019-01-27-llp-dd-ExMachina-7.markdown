@@ -12,7 +12,7 @@ published: true
 
 ## Dash Boss
 
-As explained in a previous dev diary, teh code for the dash enemy was a temporary fix to test it out for the game. It didn't really work well and I discuessed with the team and we decided to change how the level would work. We changed to so the layput of the level would remain the same but teh way the boss worked would change. 
+As explained in a previous dev diary, the code for the dash enemy was a temporary fix to test it out for the game. It didn't really work well and I discuessed with the team and we decided to change how the level would work. We changed to so the layput of the level would remain the same but teh way the boss worked would change. 
 
 ### Changes
 
