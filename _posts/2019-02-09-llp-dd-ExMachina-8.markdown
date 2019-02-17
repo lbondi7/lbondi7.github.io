@@ -12,7 +12,7 @@ published: true
 
 ## Level Builder
 
-I started on the level builder today. Its design is based of a mix of the level deisgner, mentioned in a previous dev diary, and the [particle editor](https://lbondi7.github.io/projects/GEA-Particle-System-Designer/){:target="blank" rel = "noopener"} I made for GEA. The foundations have started being implemented: clicking to spawn in the a new block, different blocks spawning in depending on which element in the menu was chosen, highlighting the selected block and draghging the block around the place.
+I started on the level builder today. Its design is based of a mix of the level deisgner, mentioned in a previous dev diary, and the [particle editor](https://lbondi7.github.io/projects/GEA-Particle-System-Designer/){:target="blank" rel = "noopener"} I made for GEA. The foundations have started being implemented: clicking to spawn in the a new block, different blocks spawning in depending on which element in the menu was chosen, highlighting the selected block and dragging the block around the place.
 
 <center>
 	<figure>
@@ -38,7 +38,7 @@ A problem that I encaounted when starting the level builder was to do with vecto
     }
 ~~~
 
-I couldn't figure out why there was a an problem with the sprite becuase the game objects in the vector weren't being given a sprite component at this point so it shouldn't be executing the code to delete the srpite of the game object. 
+I couldn't figure out why there was a an problem with the sprite becuase the game objects in the vector weren't being given a sprite component at this point so it shouldn't be executing the code to delete the sprite of the game object. 
 
 ### Solution
 
