@@ -43,7 +43,7 @@ I consolidated my understanding of Clion as well as c++. I learned about compone
 ## Trailer
 
 <p style="text-align: center">
-<iframe width="813" height="470" src="https://www.youtube.com/embed/GBajYHEbLPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315 src="https://www.youtube.com/embed/GBajYHEbLPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ---
@@ -51,7 +51,7 @@ I consolidated my understanding of Clion as well as c++. I learned about compone
 ## Gameplay
 
 <p style="text-align: center">
-<iframe width="813" height="470" src="https://www.youtube.com/embed/Wx1z6k1Ga_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315 src="https://www.youtube.com/embed/Wx1z6k1Ga_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ---
