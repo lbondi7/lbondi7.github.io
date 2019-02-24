@@ -6,16 +6,18 @@ author: Lewis Bond
 categories: Project
 tagged: Fun, ASGE, C++, Clion, LLP, University
 website: https://github.com/lbondi7
-img: /Uni/LLP/TxtBsdAdven/TBAGMenu.PNG
+img: /Uni/LLP/Ex-Machina/DeityLogoSmall.png
 carousel:
-- /Uni/LLP/TxtBsdAdven/TBAG_pic1.png
-- /Uni/LLP/TxtBsdAdven/TBAG_pic2.png
-- /Uni/LLP/TxtBsdAdven/TBAG_map.png
+- /Uni/LLP/Ex-Machina/DeityBO_Menu.png
+- /Uni/LLP/Ex-Machina/DeityBO_Game2.png
+- /Uni/LLP/Ex-Machina/DeityBO_LevelBuilder.png
+- /Uni/LLP/Ex-Machina/DeityBO_LoadLevel.png
+- /Uni/LLP/Ex-Machina/DeityBO_CustomLevel.png
 abstract: A physics platformer based around the themes of being a god and manipulation
 published: true
 ---
 
-## Ex-Machina Game
+## Deity: Become One
 
 ---
 
@@ -41,7 +43,7 @@ I consolidated my understanding of Clion as well as c++. I learned about compone
 ## Trailer
 
 <p style="text-align: center">
-<iframe width="1159" height="672" src="https://www.youtube.com/embed/GBajYHEbLPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="813" height="470" src="https://www.youtube.com/embed/GBajYHEbLPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ---
@@ -49,7 +51,7 @@ I consolidated my understanding of Clion as well as c++. I learned about compone
 ## Gameplay
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l131Fc57Yfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="813" height="470" src="https://www.youtube.com/embed/Wx1z6k1Ga_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ---
@@ -58,7 +60,7 @@ I consolidated my understanding of Clion as well as c++. I learned about compone
 
 [DEV DIARY](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-1){: .btn}
 [POST MORTEM](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/post%20mortem/llp-dd-ExMachina-post_mortem){: .btn}
-[GAMPLAY VIDEO](https://www.youtube.com/watch?v=l131Fc57Yfs){: .btn}
+[GAMPLAY VIDEO](https://www.youtube.com/embed/Wx1z6k1Ga_o){:target="blank" rel = "noopener"}{: .btn}
 
 ---
 
