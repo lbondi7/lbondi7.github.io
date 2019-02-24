@@ -47,4 +47,4 @@ Once we implemented the music, the game soudned great and was working fine apart
 
 <br/>
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-9){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-9){: .btn}[EX-MACHINA GAME - POST MORTEM](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/post%20mortem/llp-dd-ExMachina-post_mortem){: .btn}
