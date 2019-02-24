@@ -35,10 +35,10 @@ music.load();
 sound_player.play(music);
 ~~~
 
-Since our game had a retro synthwave theme we decided to go with the same kind of music, so we decided on songs M.O.O.N - Dust and Emil Rottmayer - T.I.M.E (Part 2). These two songs were the backing music to our game and gave that very distinct reto vibe we had for our game. The othe reason was that these songs both progressed to become grander and this helped for when playing the game as the player would be able to feel as they are proressing as well.
+Since our game had a retro synthwave theme we decided to go with the same kind of music, so we decided on songs M.O.O.N - Dust and Dynatron - Pulse Power. These two songs were the backing music to our game and gave that very distinct reto vibe we had for our game. The othe reason was that these songs both progressed to become grander and this helped for when playing the game as the player would be able to feel as they are proressing as well.
 
 [Dust](https://www.youtube.com/watch?v=phL6fDiYNJk){:target="blank" rel = "noopener"}{: .btn}
-[T.I.M.E (Part 2)](https://www.youtube.com/watch?v=tZyvkPoDMqM){:target="blank" rel = "noopener"}{: .btn}
+[Pulse Power](https://www.youtube.com/watch?v=Ak1-qLbHHCM){:target="blank" rel = "noopener"}{: .btn}
 
 
 ## Issue
