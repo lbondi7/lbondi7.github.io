@@ -52,4 +52,4 @@ published: true
 
 [PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-10){: .btn}
 
-[PROJECT](https://lbondi7.github.io/projects/LLP-TBAG/){: .btn}
+[PROJECT](https://lbondi7.github.io/projects/LLP-ex-machina/){: .btn}
