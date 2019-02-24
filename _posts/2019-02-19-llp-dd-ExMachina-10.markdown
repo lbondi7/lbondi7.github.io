@@ -43,7 +43,7 @@ Since our game had a retro synthwave theme we decided to go with the same kind o
 
 ## Issue
 
-Once we implemented the music, the game soudned great and was working fine apart from one thing. It took forever to load up. This was down to the music and it was slowing the game down. It went from a couple of seconds to load up, to around 10-15 seconds. We knew it was the music but we thought instaciating multiple objects that have load up and can every sound possible might be slowing it down more. So we deciding to pass the audio engine instead to each scene but that then interfered with the game scene. We didn't manage to get the issue sorteed in the end but our lecturer pointed out taht we hadn't compressed the audio and that's what was slowing down the load up, so next time we need to compress the audio.
+Once we implemented the music, the game soudned great and was working fine apart from one thing. It took forever to load up. This was down to the music and it was slowing the game down. It went from a couple of seconds to load up, to around 10-15 seconds. We knew it was the music but we thought instanciating multiple objects that have to load up and can access every sound possible might be slowing it down more. So we decided to pass the audio engine instead to each scene but that then interfered with the game scene. We didn't manage to get the issue sorted in the end but our lecturer pointed out taht we hadn't compressed the audio and that's what was slowing down the load up, so next time we know to compress the audio.
 
 <br/>
 
