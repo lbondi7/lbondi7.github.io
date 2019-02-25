@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ex-Machina Game Dev Diary: Post Mortem"
-date:   2019-02-09
+date:   2019-02-23
 author: Lewis Bond
 categories: [Developer Diary, Low Level Programming Dev Diary, Ex-Machina Dev Diary, Post Mortem]
 img: /Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg
