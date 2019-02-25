@@ -3,7 +3,8 @@ layout: project
 title:  "Deity: Become One"
 date:   2019-02-24 00:34:26
 author: Lewis Bond
-categories: Project
+categories: 
+- project
 tagged: Fun, ASGE, C++, Clion, LLP, University
 website: https://github.com/lbondi7
 img: /Uni/LLP/Ex-Machina/DeityLogoSmall.png
