@@ -5,7 +5,6 @@ date:   2018-11-17 15:02:00
 author: Lewis Bond
 categories: 
 - project
-- univeristy
 tagged: Fun, ASGE, C++, Clion, LLP, University
 website: https://github.com/lbondi7
 img: /Uni/LLP/TxtBsdAdven/TBAGMenu.PNG
@@ -15,7 +14,6 @@ carousel:
 - /Uni/LLP/TxtBsdAdven/TBAG_map.png
 abstract: A text based adeventure game on an abandoned spaceship
 published: true
-
 ---
 
 ## Text Based Adventure Game 
