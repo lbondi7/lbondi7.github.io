@@ -5,7 +5,6 @@ date:   2019-01-10 15:02:00
 author: Lewis Bond
 categories: 
 - project
-- univeristy
 tagged: Fun, ASGE, C++, Visual Studio, GEA, University
 website: https://github.com/lbondi7
 img: /Uni/GEA/ParticleSystemExample.png
@@ -17,7 +16,6 @@ carousel:
 - /Uni/GEA/ASGE_PS_8.png
 abstract: A particle system designer I made for game engine architecture
 published: true
-
 ---
 
 ## Particle System Deisgner
