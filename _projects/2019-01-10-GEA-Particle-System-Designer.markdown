@@ -3,7 +3,8 @@ layout: project
 title:  "Particle System Designer"
 date:   2019-01-10 15:02:00
 author: Lewis Bond
-categories: Project
+categories: 
+- project
 tagged: Fun, ASGE, C++, Visual Studio, GEA, University
 website: https://github.com/lbondi7
 img: /Uni/GEA/ParticleSystemExample.png
