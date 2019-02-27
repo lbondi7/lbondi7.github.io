@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mario Kart Dev Diary: More Cameras"
-date:   2019-02-15
+date:   2019-02-25
 author: Lewis Bond
 categories: [Developer Diary, Game Engine Programming Dev Diary, Mario Kart Dev Diary]
 img: /Uni/GEP/MarioKart/mariokart.png
