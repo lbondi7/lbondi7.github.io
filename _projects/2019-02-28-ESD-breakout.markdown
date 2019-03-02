@@ -38,17 +38,17 @@ The original breakout game I made was done for my ESD module back in Feb 2018. I
 ## What I learned
 
 Even though I struggled with breakout I did learn about/consilidate my knkowledge on:
-  - Collsiion
+  - Collsion
   - Vectors
   - Arrays
-  - Bounding Boxs
+  - Bounding Boxes
   - Gameplay
 
 ---
 
 ## Remake
 
-After seeings ome of the first years breakout I decided to revemp my old one to make it more fun. I incorporated some of the techniques and skills I have picked up since I last did breakout:
+After seeings ome of the first years breakout I decided to revemp my old one to make it more fun. I have incorporated some of the techniques and skills, I picked up since I last did breakout:
   - Scene Manager
   - Pause State
   - Leaderboard
@@ -75,11 +75,11 @@ After seeings ome of the first years breakout I decided to revemp my old one to 
 
 ## Future
 
-In the Future, I am going to remake all my games an form ESD and also imrpove on this by adding a full leaderboard, level builder, more levels, more power ups and much more.
+In the future, I am going to remake all my games an form ESD and also imrpove on this by adding a full leaderboard, level builder, more levels, more power ups and much more.
 
 #### Links
 
-[GAMPLAY VIDEO](https://www.youtube.com/embed/Wx1z6k1Ga_o){:target="blank" rel = "noopener"}{: .btn}
+[GAMPLAY VIDEO](https://www.youtube.com/embed/CFmJ4LYCISs){:target="blank" rel = "noopener"}{: .btn}
 
 ---
 
