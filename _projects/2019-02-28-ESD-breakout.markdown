@@ -60,7 +60,7 @@ After seeings ome of the first years breakout I decided to revemp my old one to 
 <figure class = "third">
     <a href="/assets/img/project/Uni/ESD/Breakout/breakoutGame.png"><img src="/assets/img/project/Uni/ESD/Breakout/breakoutGame.png" height="30"></a>
       <a href="/assets/img/project/Uni/ESD/Breakout/breakoutGame8.png"><img src="/assets/img/project/Uni/ESD/Breakout/breakoutGame8.png" height="30"></a>
-       <a href="/assets/img/project/Uni/ESD/Breakout/breakoutLeaderboard.png"><img src="/assets/img/project/Uni/ESD/Breakout/breakoutLeaderboard.png"height="30"></a>
+       <a href="/assets/img/project/Uni/ESD/Breakout/breakoutLeaderboard.png"><img src="/assets/img/project/Uni/ESD/Breakout/breakoutLeaderboard.png" height="30"></a>
     <figcaption>This shows what the remake game looks like.</figcaption>
 </figure>
 </center>
