@@ -27,7 +27,7 @@ I figured out how to set the size of viewport and that the scissor rect is used 
 </center>
 <br/>
 
-The first image shows the viewport normally and teh second shows teh viewport being 1.5x bigger than the window and and the rect being 1.1x bigger than the window.
+The first image shows the viewport normally and the second shows the viewport being 1.5x bigger than the window and and the rect being 1.1x bigger than the window.
 
 These two variables, is what is needed to get the splitscreen working, but I havent quite figure out what needs to be done. Does there need to be multiple viewports to accommodate for multiple cameras or does using the scissor rect can one viewport being used with multiple scissors rects spliting up the screen.
 
