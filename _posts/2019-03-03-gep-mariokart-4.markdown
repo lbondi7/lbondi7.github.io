@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mario Kart Dev Diary: Splitscreen!"
+title:  "Mario Kart Dev Diary: Orbit Camera"
 date:   2019-02-28
 author: Lewis Bond
 categories: [Developer Diary, Game Engine Programming Dev Diary, Mario Kart Dev Diary]
