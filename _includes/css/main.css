@@ -205,11 +205,11 @@ a:focus {
 }
 
 .hline {
-	border-bottom: 2px solid {color: #F7ECEA};
+	border-bottom: 2px solid #F7ECEA;
 }
 
 .hline-w {
-	border-bottom: 2px solid #ffffff;
+	border-bottom: 2px solid #F7ECEA;
 	margin-bottom: 25px;
 }
 /*	################################################################
