@@ -13,9 +13,7 @@ published: true
 # Splitscreen
 
 Splitscreen is working!
-Since the splitscreen need to accomodate for multiple cameras, multiple viewports were required 
-
-I figured out how to set the size of viewport and that the scissor rect is used to select what part of the viewport is rendered. Having multiple viewports is the method I used for rendering multiple cameras. Our lecture set up a pointer to a camera in the render data which is sent to render function as a batch to be drawn. The scissor rect is used to change the size of how much is rendered. The scissor rect has to be changed based on the size of the window but not the viewport.
+Since the splitscreen need to accomodate for multiple cameras, multiple viewports were required. I figured out how to set the size of viewport and that the scissor rect is used to select what part of the viewport is rendered. Having multiple viewports is the method I used for rendering multiple cameras. Our lecture set up a pointer to a camera in the render data which is sent to render function as a batch to be drawn. The scissor rect is used to change the size of how much is rendered. The scissor rect has to be changed based on the size of the window but not the viewport.
 
 <center>
 	<figure>
