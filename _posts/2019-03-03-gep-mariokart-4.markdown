@@ -15,7 +15,7 @@ published: true
 When a person finshes a race in mario kart it lerps round to be in front of the player. The link below shows the effect. I have been working on an orbit camera to do this effect.
 [MARIO KART EFFECT](https://youtu.be/GHz6s5iVpYU?t=469){:target="blank" rel = "noopener"}{: .btn}
 
-Since it need to circle around the player I knew I needed to use trigonometry. As [Maths Is Fun](https://www.mathsisfun.com/algebra/trigonometry.html), shows I need to use the opposite and the adjacent to get the hypotenuse. Once I had this it was easy. The center of the model was used as the pivot and the angle was changed to make it spin around the kart. M_dpos was a vector3 used to put the camera a set distance behind the car and to get the x of this vector was used as the opposite, the z was used to get the adjacent.
+Since it need to circle around the player I knew I needed to use trigonometry. As [Maths Is Fun](https://www.mathsisfun.com/algebra/trigonometry.html) shows, I need to use the opposite and the adjacent to get the hypotenuse. Once I had this it was easy. The center of the model was used as the pivot and the angle was changed to make it spin around the kart. M_dpos was a vector3 used to put the camera a set distance behind the car and to get the x of this vector was used as the opposite, the z was used to get the adjacent.
 
 ~~~
 angle += amount;
