@@ -205,7 +205,7 @@ a:focus {
 }
 
 .hline {
-	border-bottom: 2px solid {{ site.colors.secondary }};
+	border-bottom: 2px solid {color: #F7ECEA};
 }
 
 .hline-w {
