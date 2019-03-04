@@ -10,7 +10,7 @@ published: true
 ---
 <!--more-->
 
-# Camera 2.0
+## Camera 2.0
 
 Carrying on with the cameras from last time, I am now trying to get it to display multiple cameras in order to get the split screen working. 
 
