@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Network Game Dev Diary: Assignment"
-date:   2019-02-19
+date:   2019-03-8
 author: Lewis Bond
 categories: [Developer Diary, Low Level Programming Dev Diary, Network Game Dev Diary]
-img: /Uni/LLP/RainforestRampage/RainforestRampageThumb.png
-thumb: /Uni/LLP/RainforestRampageDevDiary/RainforestRampageCover.png
+img: /Uni/LLP/RainforestRampageDevDiary/RainforestRampageCover.png
+thumb: Uni/LLP/RainforestRampage/RainforestRampageThumb.png
 published: true
 ---
 <!--more-->
