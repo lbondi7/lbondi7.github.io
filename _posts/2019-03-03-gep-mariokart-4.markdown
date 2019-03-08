@@ -34,6 +34,6 @@ The angle is increased by an amount every frame and the angle is then divided by
 
 ## Problem
 
-This issues with this method is that it uses two dimensional ths but i need it to work in three dimensions so what way eh cart is facing it will orbit at the amount I want. For this i will have to incorperate the matrix and orientation of the car so it orbits around no matter how teh car is rotated.
+This issues with this method is that it uses two dimensional ths but i need it to work in three dimensions so what way the cart is facing it will orbit at the amount I want. For this I will have to incorperate the matrix and orientation of the car so it orbits around no matter how the car is rotated.
 
 [PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-3){: .btn}
