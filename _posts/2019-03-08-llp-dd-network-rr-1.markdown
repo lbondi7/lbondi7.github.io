@@ -22,7 +22,7 @@ Rainforest Rampage is the name of our board game. Each player plays as an animal
 
 ## Changes
 
-We have discussed making a few changes to try and improve teh game.
+We have discussed making a few changes to try and improve the game.
  - Give the player multiple targets so other players will find it tougher to guess where they are moving towards.
  - Add a mass migration card so the player can move two spaces, to speed the game up
  - Combining the ranger and protester card so they both do the same thing
