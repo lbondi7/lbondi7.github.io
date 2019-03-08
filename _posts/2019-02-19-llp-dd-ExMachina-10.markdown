@@ -20,7 +20,7 @@ For our game we wanted audio in order to enhance the experience. Audio in a game
 
 ## SoLoud
 
-SoLoud was the engien that was used in the game. It was fairly simple to setup with just having to include a couple of lines in the cmake file in order to import the engine when the game builds. After that it is farily simple to get sound playing in the game. The files had to be included in the header file but then its was just initilising the component to play the sounds and loading the sounds in. 
+SoLoud was the engine that was used in the game. It was fairly simple to setup with just having to include a couple of lines in the cmake file in order to import the engine when the game builds. After that it is farily simple to get sound playing in the game. The files had to be included in the header file but then its was just initilising the component to play the sounds and loading the sounds in. 
 
 ~~~
 ## Header file syntax 
@@ -43,7 +43,7 @@ Since our game had a retro synthwave theme we decided to go with the same kind o
 
 ## Issue
 
-Once we implemented the music, the game soudned great and was working fine apart from one thing. It took forever to load up. This was down to the music and it was slowing the game down. It went from a couple of seconds to load up, to around 10-15 seconds. We knew it was the music but we thought instanciating multiple objects that have to load up and can access every sound possible might be slowing it down more. So we decided to pass the audio engine instead to each scene but that then interfered with the game scene. We didn't manage to get the issue sorted in the end but our lecturer pointed out taht we hadn't compressed the audio and that's what was slowing down the load up, so next time we know to compress the audio.
+Once we implemented the music, the game soudned great and was working fine apart from one thing. It took forever to load up. This was down to the music and it was slowing the game down. It went from a couple of seconds to load up, to around 10-15 seconds. We knew it was the music but we thought instanciating multiple objects that have to load up and can access every sound possible might be slowing it down more. So we decided to pass the audio engine instead to each scene but that then interfered with the game scene. We didn't manage to get the issue sorted in the end but our lecturer pointed out that we hadn't compressed the audio and that's what was slowing down the load up, so next time we know to compress the audio.
 
 <br/>
 
