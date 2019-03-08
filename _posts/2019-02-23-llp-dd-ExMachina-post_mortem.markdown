@@ -30,7 +30,7 @@ published: true
 ## Cons
 <ul>
     <li>The level builder wasn't as good as it could of been code wise and also when using it.</li>
-    <li>The code for the level builder was a bit messy and could of been cleared up if I had made a button or a ui class to help with all the button presses and unique code.</li>
+    <li>The code for the level builder was a bit messy and could of been cleared up if I had made a button or an UI class to help with all the button presses and unique code.</li>
     <li>The design was a bit confusing so as some people were saying they didn't know what to press once tehy had made their level and that they didnt seen the side bar as it was hidden away too much.</li>
     <li>The story was also a bit lacking and there was no real motivation to play in terms of character that the user could relate to or become interested in.</li>
 </ul>
@@ -44,9 +44,9 @@ published: true
 
 ## What I Learned
 <ul>
-    <li>I learned about component based programming and how useful it is. The fact that you can just attach a component to an object and say, ok now behave like this and tehn attach another one and teh object can act entirely different.</li>
+    <li>I learned about component based programming and how useful it is. The fact that you can just attach a component to an object and say, ok now behave like this and then attach another one and the object can act entirely different.</li>
     <li>It taught me component based programming, as well as consolidating my understanding of how classes and objects should interact in a game.</li>
-    <li>Also I learned how important constant communication in a group project is, as sometimes we didn't and then we would end up working on teh same thing and end up clashing.</li>
+    <li>Also I learned how important constant communication in a group project is, as sometimes we didn't and then we would end up working on the same thing and end up clashing.</li>
 </ul>
 
 
