@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Network Game Dev Diary: Sending Dtaa"
+title:  "Network Game Dev Diary: Sending Data"
 date:   2019-03-13
 author: Lewis Bond
 categories: [Developer Diary, Low Level Programming Dev Diary, Network Game Dev Diary]
