@@ -27,13 +27,13 @@ The angle is increased by an amount every frame and the angle is then divided by
 
 <center>
 	<figure>
-<a href="/assets/img/blog/Uni/GEP/MarioKart/SplitScreen.gif"><img src="/assets/img/blog/Uni/GEP/MarioKart/SplitScreen.gif" height = "50"></a>
-		<figcaption>Splitscreen in direct x.</figcaption>
+<a href="/assets/img/blog/Uni/GEP/MarioKart/SplitScreen.gif"><img src="/assets/img/blog/Uni/GEP/MarioKart/SplitScreen.gif" width = "600" height = "338"></a>
+		<figcaption>The orbit camera in action</figcaption>
 	</figure>
 </center>
 
 ## Problem
 
-This issues with this method is that it uses two dimensional ths but i need it to work in three dimensions so what way the cart is facing it will orbit at the amount I want. For this I will have to incorperate the matrix and orientation of the car so it orbits around no matter how the car is rotated.
+This issues with this method is that it uses two dimensional ths but I need it to work in three dimensions so what way the cart is facing it will orbit at the amount I want. For this I will have to incorperate the matrix and orientation of the car so it orbits around no matter how the car is rotated.
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-3){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-3){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/developer%20diary/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-5){: .btn}
