@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mario Kart Dev Diary: Camera System"
-date:   2019-03-07
+title:  "Mario Kart Dev Diary: Sprites"
+date:   2019-03-14
 author: Lewis Bond
 categories: [Developer Diary, Game Engine Programming Dev Diary, Mario Kart Dev Diary]
 img: /Uni/GEP/MarioKart/mariokart.png
