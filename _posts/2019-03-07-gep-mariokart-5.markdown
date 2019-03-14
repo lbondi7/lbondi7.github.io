@@ -33,6 +33,6 @@ The camera system I have implemented now allows the camera to up to 8 types of c
 
 ## Orbit Camera Problem
 
-I fixed the issue with the orbit camera, I was calculating the range of the orbit using the delta pos (the distance from the camera to the kart) added onto the kart's psotion instead of just delta pos. This is why the orbit stretched and changed because teh karts position was changing.  
+I fixed the issue with the orbit camera, I was calculating the range of the orbit using the delta pos (the distance from the camera to the kart) added onto the kart's psotion instead of just delta pos. This is why the orbit stretched and changed because the karts position was changing.  
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-4){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-4){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/developer%20diary/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-6){: .btn}
