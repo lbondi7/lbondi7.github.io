@@ -29,8 +29,8 @@ A simple solution was relaised, as all that was needed was one batch with each s
 
 <center>
 	<figure>
-<a href="/assets/img/blog/GEP/MarioKart/Sprites.png"><img src="/assets/img/blog/Uni/GEP/MarioKart/Sprites.png" height = "50"></a>
-		<figcaption>Splitscreen in direct x.</figcaption>
+<a href="/assets/img/blog/GEP/MarioKart/Sprites.png"><img src="/assets/img/blog/Uni/GEP/MarioKart/Sprites.png" width = "40" height = "40"></a>
+		<figcaption>Sprites rendering to different screens.</figcaption>
 	</figure>
 </center>
 
