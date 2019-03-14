@@ -17,7 +17,7 @@ Since the splitscreen need to accomodate for multiple cameras, multiple viewport
 
 <center>
 	<figure>
-<a href="/assets/img/blog/GEP/MarioKart/Splitscreen.png"><img src="/assets/img/blog/Uni/GEP/MarioKart/Splitscreen.png" height = "50"></a>
+<a href="/assets/img/blog/GEP/MarioKart/Splitscreen.png"><img src="/assets/img/blog/Uni/GEP/MarioKart/Splitscreen.png" width = "500" height = "284"></a>
 		<figcaption>Splitscreen in direct x.</figcaption>
 	</figure>
 </center>
