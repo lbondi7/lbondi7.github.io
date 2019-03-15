@@ -19,9 +19,9 @@ I figured out how to set the size of viewport and that the scissor rect is used 
 
 <center>
 	<figure class="half">
-<a href="/assets/img/blog/GEP/MarioKart/veiwport1.png"><img src="/assets/img/blog/Uni/GEP/MarioKart/veiwport1.png" width = "300" height = "237"></a>
+<a href="/assets/img/blog/Uni/GEP/MarioKart/veiwport1.png"><img src="/assets/img/blog/Uni/GEP/MarioKart/veiwport1.png" width = "300" height = "237"></a>
 
-<a href="/assets/img/blog/GEP/MarioKart/viewport2.png"><img src="/assets/img/blog/Uni/GEP/MarioKart/viewport2.png" width = "300" height = "237"></a>
+<a href="/assets/img/blog/Uni/GEP/MarioKart/viewport2.png"><img src="/assets/img/blog/Uni/GEP/MarioKart/viewport2.png" width = "300" height = "237"></a>
 		<figcaption>The difference in the what is displayed when the scissor rect is changed.</figcaption>
 	</figure>
 </center>
