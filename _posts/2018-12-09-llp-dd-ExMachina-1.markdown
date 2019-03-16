@@ -3,7 +3,7 @@ layout: post
 title:  "Ex-Machina Game Dev Diary: Assignment"
 date:   2018-12-09
 author: Lewis Bond
-categories: [Developer Diary, Low Level Programming Dev Diary, Ex-Machina Dev Diary]
+categories: [Low Level Programming Dev Diary, Ex-Machina Dev Diary]
 img: /Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg
 thumb: /Uni/LLP/Ex-Machina/Ex-Machina.png
 published: true
