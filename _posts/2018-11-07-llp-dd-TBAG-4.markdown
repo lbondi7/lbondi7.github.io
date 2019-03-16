@@ -3,7 +3,7 @@ layout: post
 title:  "Text Based Adventure Game Dev Diary: Navigating The Ship"
 date:   2018-11-07
 author: Lewis Bond
-categories: [Developer Diary, Low Level Programming Dev Diary, Text Based Adventure Dev Diary]
+categories: [Low Level Programming Dev Diary, Text Based Adventure Dev Diary]
 img: /Uni/LLP/TxBsdAdvenBlog/coverPage.png
 thumb: /Uni/LLP/TxtBsdAdv/coverPageSmall.png
 published: true
