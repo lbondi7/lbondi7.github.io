@@ -3,7 +3,7 @@ layout: post
 title:  "Ex-Machina Game Dev Diary: Dash Boss 2.0"
 date:   2019-01-27
 author: Lewis Bond
-categories: [Developer Diary, Low Level Programming Dev Diary, Ex-Machina Dev Diary]
+categories: [Low Level Programming Dev Diary, Ex-Machina Dev Diary]
 img: /Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg
 thumb: /Uni/LLP/Ex-Machina/Ex-Machina.png
 published: true
