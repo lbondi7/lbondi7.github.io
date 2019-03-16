@@ -3,7 +3,7 @@ layout: post
 title:  "Level Design Developer's Diary: Level Plans"
 date:   2018-11-14
 author: Lewis Bond
-categories:  [Developer Diary, Level Design Developer Diary]
+categories:  [Level Design Developer Diary]
 img: /Uni/GLD/LevelDesignDevDiary/LevelDesign.png
 thumb: /Uni/LvlDes/LevelDesignSmall.png
 published: true
