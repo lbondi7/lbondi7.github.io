@@ -17,7 +17,7 @@ Since our game has to support networking, it means that data must be send across
 
 ## Packets
 
-Teh data is sent using enet. I have implemented a packets class (recomended by my lecturer), to send data across so any type of data can be streammed into it, it gets sent across to the other players then, gets streammed out in the order it was streammed in. I advanced on this by adding in a packet id as an enum, which is sent along with the packet and when streammed out, it tells the client or server what kind of data this is.
+The data is sent using enet. I have implemented a packets class (recomended by my lecturer), to send data across so any type of data can be streammed into it, it gets sent across to the other players then, gets streammed out in the order it was streammed in. I advanced on this by adding in a packet id as an enum, which is sent along with the packet and when streammed out, it tells the client or server what kind of data this is.
 
 
 ## Data
