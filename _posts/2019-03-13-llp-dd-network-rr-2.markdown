@@ -12,7 +12,7 @@ published: true
 
 ## Sending Data
 
-Since our game has to support networking, it means that data must be send across different poeple on different computers. For this game, a server is used to store the data on shich is then sent all the clients which updates their game. This a safer method than peer to perr as it stops people changing the data that will be sent, so therefore cheating is reduced, as the server can check if the information sent is correct before sending it all to the other clients. 
+Since our game has to support networking, it means that data must be send across different poeple on different computers. For this game, a server is used to store the data on shich is then sent all the clients which updates their game. This a safer method than peer to peer as it stops people changing the data that will be sent, so therefore cheating is reduced, as the server can check if the information sent is correct before sending it all to the other clients. 
 
 
 ## Packets
