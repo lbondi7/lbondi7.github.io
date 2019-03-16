@@ -3,7 +3,7 @@ layout: post
 title:  "Network Game Dev Diary: Sending Data"
 date:   2019-03-13
 author: Lewis Bond
-categories: [Developer Diary, Low Level Programming Dev Diary, Network Game Dev Diary]
+categories: [Low Level Programming Dev Diary, Network Game Dev Diary]
 img: /Uni/LLP/RainforestRampageDevDiary/RainforestRampageCover.png
 thumb: Uni/LLP/RainforestRampage/RainforestRampageThumb.png
 published: true
