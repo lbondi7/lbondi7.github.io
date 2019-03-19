@@ -24,8 +24,10 @@ The Audio Manager has every sound in the game setup so whenever we need any soun
 	std::vector<Sound*> m_miscSounds;
 ~~~
 The constants header then stores multiple enums that allow the us to access the files we need. There is an enum for the catergory of sound eg. menu, game etc. There are then an enum for every catergory which stores an enum relating to the sound in the vector.
-To play any sound for example the countdown, all we need to do now is just *Locator::getAudio()->Play(SOUND_TYPE::MISC, (int)SOUNDS_MISC::COUNTDOWN);*
+To play any sound for example the countdown, all we need to do now is just...
+~~~
+Locator::getAudio()->Play(SOUND_TYPE::MISC, (int)SOUNDS_MISC::COUNTDOWN);
+~~~
 
-</br>
 
 [PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-6){: .btn}
