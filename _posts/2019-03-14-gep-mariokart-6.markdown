@@ -12,7 +12,7 @@ published: true
 
 ## Sprites
 
-getting multiple sprites rendering on the screen for each player was my target today. I was over thinking all the time as with direct x it redners sprites using a batch, so it has a batch of sprites which is sent to the renderer to be rendered. Since I had done the sipltscreen by having multiple viewports and cameras which erender all the obejcts separately. I applied this logic to the sprites thinking I needed multiple bathces to render the sprites on different viewports, so I implemeted this and realised that if each player has its own sprite batch, then every sprite for every player will get added to each batch. So every player will render every sprite. Also teh renderer would receive multiple batches so it would be horribly inefficient.  
+Getting multiple sprites rendering on the screen for each player was my target today. I was over thinking all the time as with direct x it redners sprites using a batch, so it has a batch of sprites which is sent to the renderer to be rendered. Since I had done the sipltscreen by having multiple viewports and cameras which erender all the obejcts separately. I applied this logic to the sprites thinking I needed multiple bathces to render the sprites on different viewports, so I implemeted this and realised that if each player has its own sprite batch, then every sprite for every player will get added to each batch. So every player will render every sprite. Also teh renderer would receive multiple batches so it would be horribly inefficient.  
 
 ## Solution
 
