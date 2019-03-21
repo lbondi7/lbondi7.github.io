@@ -5,7 +5,7 @@ title: Lewis Bond
 description: "Nothing"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
-url: "/https://lbondi7.github.io"
+url: #"/https://lbondi7.github.io"
 
 # Build settings
 highlighter: rouge
