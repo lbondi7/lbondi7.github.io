@@ -12,9 +12,9 @@ published: true
 
 ## Camera System
 
-The way the cameras were setup before was with teh TPSCamera class inheriting from the Camera class but now I have done away with that and based the camera class upon the way the unity camera works. The unity camera can act as any type of camera the user wants as the [video](https://youtu.be/xvyrzwwU1DE){:target="blank" rel = "noopener"} shows.
+The way the cameras were setup before was with the TPSCamera class inheriting from the Camera class but now I have done away with that and based the camera class upon the way the unity camera works. The unity camera can act as any type of camera the user wants as the [video](https://youtu.be/xvyrzwwU1DE){:target="blank" rel = "noopener"} shows.
 
-The camera system I have implemented now allows the camera to up to 8 types of camera, including a fist person camera, a lerping follow camera, a cinematic camera or a camera that can fly around (although this is only used for debugging and checking the map works). All of these behaviours are stored in teh camera class atm but if it gets too long I will make it a component based system with each part in a different class (for readability/organisational purposes).
+The camera system I have implemented now allows the camera to up to 8 types of camera, including a fist person camera, a lerping follow camera, a cinematic camera or a camera that can fly around (although this is only used for debugging and checking the map works). All of these behaviours are stored in the camera class atm but if it gets too long I will make it a component based system with each part in a different class (for readability/organisational purposes).
 
 ~~~
 	enum class BEHAVIOUR : int
