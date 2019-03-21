@@ -22,7 +22,7 @@ The data is sent using enet. I have implemented a packets class (recomended by m
 
 ## Data
 
-Since the packets can contain any type of data, I decided to use structs, which contain the data which is needed to be sent. Each part of the game will have a differnt struct such as the player, map, cards, tiles, chat room etc. This allows for teh data to be sent but in an organised fashion and can easily be accessed once the client or server recieve it. 
+Since the packets can contain any type of data, I decided to use structs, which contain the data which is needed to be sent. Each part of the game will have a differnt struct such as the player, map, cards, tiles, chat room etc. This allows for the data to be sent but in an organised fashion and can easily be accessed once the client or server recieve it. 
 
 ~~~
 struct PlayerData
