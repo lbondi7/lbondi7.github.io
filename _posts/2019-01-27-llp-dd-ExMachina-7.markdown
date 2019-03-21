@@ -12,7 +12,7 @@ published: true
 
 ## Dash Boss
 
-As explained in a previous dev diary, the code for the dash enemy was a temporary fix to test it out for the game. It didn't really work well and I discuessed with the team and we decided to change how the level would work. We changed to so the layput of the level would remain the same but teh way the boss worked would change. 
+As explained in a previous dev diary, the code for the dash enemy was a temporary fix to test it out for the game. It didn't really work well and I discuessed with the team and we decided to change how the level would work. We changed to so the layput of the level would remain the same but the way the boss worked would change. 
 
 ### Changes
 
@@ -52,7 +52,7 @@ The gif below shows the dash boss in action.
 
 ### Randomiser
 
-The issue with teh randomiser in a previous dev diary was fixed this time around. I was using random_device instead of using a seed generator. The new code is shown below, so it generates a seed using a value and then it generates a number between the max and min, which are passed in.
+The issue with the randomiser in a previous dev diary was fixed this time around. I was using random_device instead of using a seed generator. The new code is shown below, so it generates a seed using a value and then it generates a number between the max and min, which are passed in.
 
 ~~~
   std::mt19937 generator(seed);
