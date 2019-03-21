@@ -23,7 +23,7 @@ This utilises the positions imported from blender to place where the waypoints a
 
 ## Issue
 
-At the moment, there is a issue importing the position and rotation from blender as it uses a different orientation system so I am having trouble getting the rotation right. A temporary solution for the BETA tomorrow was to make the bounding boxes massive so they cover enough of the track but this will change for the gold release as we hoep to have the rotation importer working by then so teh bounding box will only need to be a certain size.
+At the moment, there is a issue importing the position and rotation from blender as it uses a different orientation system so I am having trouble getting the rotation right. A temporary solution for the BETA tomorrow was to make the bounding boxes massive so they cover enough of the track but this will change for the gold release as we hoep to have the rotation importer working by then so the bounding box will only need to be a certain size.
 
 ## More Uses
 
