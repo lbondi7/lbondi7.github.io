@@ -22,7 +22,7 @@ published: true
 ## Pros
 <ul>
     <li>Refactoring the code down so it made it easier to understand and read, when someone else was looking at it.</li>
-    <li>Reading/writing to dat files worked well when loading and saving the levels. It was broken down into 4 parts. One dat file stored the data on the boss, another the obejcts such as blocks and lesser enemies, another the player data and teh last one stored the settings for the levels.</li>
+    <li>Reading/writing to dat files worked well when loading and saving the levels. It was broken down into 4 parts. One dat file stored the data on the boss, another the obejcts such as blocks and lesser enemies, another the player data and the last one stored the settings for the levels.</li>
     <li>The mixture of inheritence and composition based progarmming also worked well with our lecturer commenting that we had done a "superb job".</li>
     <li>The astectics were also very good as it gave our game a very unique style and people could instantly recognise our game.</li>
 </ul>
@@ -31,7 +31,7 @@ published: true
 <ul>
     <li>The level builder wasn't as good as it could of been code wise and also when using it.</li>
     <li>The code for the level builder was a bit messy and could of been cleared up if I had made a button or an UI class to help with all the button presses and unique code.</li>
-    <li>The design was a bit confusing so as some people were saying they didn't know what to press once tehy had made their level and that they didnt seen the side bar as it was hidden away too much.</li>
+    <li>The design was a bit confusing so as some people were saying they didn't know what to press once they had made their level and that they didnt seen the side bar as it was hidden away too much.</li>
     <li>The story was also a bit lacking and there was no real motivation to play in terms of character that the user could relate to or become interested in.</li>
 </ul>
 
