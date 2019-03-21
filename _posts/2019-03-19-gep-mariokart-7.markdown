@@ -12,7 +12,7 @@ published: true
 
 ## Sounds
 
-For sounds I implemented a audio manager using the system locator class Matt implemented. The locator class allowed for anything within there to be called where ever it is needed so it made sence to put a getter to the Audio Manager in there instead of passing down through the scenes or instanciating it all over the place. This time the solution to an issue I had for saw when I took teh task of sounds had already been solved.
+For sounds I implemented a audio manager using the system locator class Matt implemented. The locator class allowed for anything within there to be called where ever it is needed so it made sence to put a getter to the Audio Manager in there instead of passing down through the scenes or instanciating it all over the place. This time the solution to an issue I had for saw when I took the task of sounds had already been solved.
 
 ## Audio Manager
 
