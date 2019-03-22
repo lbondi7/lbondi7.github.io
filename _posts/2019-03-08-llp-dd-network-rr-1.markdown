@@ -30,4 +30,4 @@ We have discussed making a few changes to try and improve the game.
 
 <br/>
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-9){: .btn}
+[NEXT BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/llp-dd-network-rr-2){: .btn}
