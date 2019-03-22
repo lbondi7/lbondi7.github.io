@@ -31,9 +31,13 @@ This data is then passed to each client, which holds a map class, in wich there 
 
 ## Images
 
-
-~~~
+<center>
+	<figure>
+<a href="/assets/img/blog//Uni/LLP/RainforestRampageDevDiary/Map.PNG"><img src="/assets/img/blog//Uni/LLP/RainforestRampageDevDiary/Map.PNG" width = "515" height = "500"></a>
+		<figcaption>The map displaying on the client.</figcaption>
+	</figure>
+</center>
 
 <br/>
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/llp-dd-network-rr-2){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/llp-dd-network-rr-2){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/llp-dd-network-rr-4){: .btn}
