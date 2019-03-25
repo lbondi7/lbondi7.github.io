@@ -34,4 +34,4 @@ For my reworked game I will change the setting as well as the items available. M
 
 As a stretch goal I am also thinking of adding in an alien that wonders around the ship and if the user encounters it they will have to defend themself with any items they found or run away.
 
-[NEXT BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-2){: .btn}
+[NEXT BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-2){: .btn}
