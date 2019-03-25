@@ -35,4 +35,4 @@ The player should have challenges to overcome such as obstcales or enemies but t
 #### Progression
 The game should keep the player interested and want to play but also how will the level allow the player to progress and then retreat at the end but not before then.
 
-[NEXT BLOG POST](https://lbondi7.github.io/developer%20diary/level%20design%20developer%20diary/LevDes-dev-diary-2){: .btn}
+[NEXT BLOG POST](https://lbondi7.github.io/level%20design%20developer%20diary/LevDes-dev-diary-2){: .btn}
