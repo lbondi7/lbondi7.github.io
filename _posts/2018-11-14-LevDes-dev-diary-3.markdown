@@ -57,4 +57,4 @@ The weird location will have different physics and potentially have the player. 
 
 The chase part of the level will require the player to use all power-ups they have aquired. The player will go back to the cave then go through back to the cave to the mansion then run to the boat and escape the island and the creature.
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/level%20design%20developer%20diary/LevDes-dev-diary-2){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/level%20design%20developer%20diary/LevDes-dev-diary-2){: .btn}
