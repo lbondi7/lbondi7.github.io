@@ -128,7 +128,7 @@ a:focus {
 }
 
 .navbar-default {
-	background-color: {{ site.colors.secondary }};
+	background-color: {{ site.colors.primary }};
 	border-color: transparent;
 }
 
