@@ -23,4 +23,4 @@ What I did to save on the number of classes is merge the TPSCamera class in to t
 m_cam1 = new Camera(static_cast<float>(1200), static_cast<float>(800), 1.0f, 1000.0f, nullptr, Vector3(0.0f, 3.0f, 10.0f));
 ~~~
 
-[NEXT BLOG POST](https://lbondi7.github.io/developer%20diary/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-2){: .btn}
+[NEXT BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-2){: .btn}
