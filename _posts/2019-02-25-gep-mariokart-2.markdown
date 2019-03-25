@@ -31,4 +31,4 @@ The first image shows the viewport normally and the second shows the viewport be
 
 These two variables, is what is needed to get the splitscreen working, but I havent quite figure out what needs to be done. Does there need to be multiple viewports to accommodate for multiple cameras or does using the scissor rect can one viewport being used with multiple scissors rects spliting up the screen.
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-1){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/developer%20diary/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-3){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-1){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-3){: .btn}
