@@ -27,5 +27,5 @@ I formed a team with my classmates Evan, Tom and Jack. We had a few initial idea
 The game will be about a god in training and has been given a city to look after. How the character plays the game will impact on the city and its people. So the player might have to expand themself to a point where its affecting the buildings and moving them out of the way. This then has an impact on some of the people that are in those buildings. This is the narrative part of the game. The game will also include a level builder where players can create their own level and then play them. We are going with a synthwave art style with this game so it will look like Hotline Miami and Geometry Dash. 
 
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-1){: .btn}
-[NEXT BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-3){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-1){: .btn}
+[NEXT BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-3){: .btn}
