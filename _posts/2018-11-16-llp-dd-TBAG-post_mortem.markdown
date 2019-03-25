@@ -51,6 +51,6 @@ published: true
 </ul>
 
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-5){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-5){: .btn}
 
 [PROJECT](https://lbondi7.github.io/projects/LLP-TBAG/){: .btn}
