@@ -24,6 +24,8 @@ colors:  #in hex code if not noted else
   link_hover: "#01b2fe"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
+  body: "#212120"
+  text: "#F7ECEA
 
 # Making projects separate from posts
 collections:
