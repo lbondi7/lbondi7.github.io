@@ -18,7 +18,7 @@ For the game, one of the requirements is to allow a player to disconnect and rec
 
 <center>
 	<figure>
-<a href="/assets/img/blog//Uni/LLP/RainforestRampageDevDiary/PlayersTurn.gif"><img src="/assets/img/blog//Uni/LLP/RainforestRampageDevDiary/PlayersTurn.gif" width = "600" height = "338"></a>
+<a href="/assets/img/blog//Uni/LLP/RainforestRampageDevDiary/Reconnecting.gif"><img src="/assets/img/blog//Uni/LLP/RainforestRampageDevDiary/Reconnecting.gif" width = "600" height = "338"></a>
 		<figcaption>The map displaying on the client.</figcaption>
 	</figure>
 </center>
