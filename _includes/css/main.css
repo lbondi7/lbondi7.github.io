@@ -22,7 +22,7 @@
 	} 
 
 body { 
-	background: #212120; 
+	background: {{ site.colors.body}}; 
 	margin: 0; 
 	height: 100%; 
 	color: #F7ECEA;
@@ -119,11 +119,11 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: {{ site.colors.primary }};
+	color: {{ site.colors.body}};
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: {{ site.colors.primary }};
+	color: {{ site.colors.body}};
 	background-color: transparent;
 }
 
