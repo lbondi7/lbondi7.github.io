@@ -12,7 +12,7 @@ published: true
 
 ## States
 
-The GameCore (server side) and the GameScene (client side) cpps were getting too big and unreadable. To sort this I changed the switch case I had with teh states in different classes all inheriting from an abstract state class (similarly to my scenes). Teh code in teh switch case was moved and it cleaned up the cpp. Now to update the game the code is ..
+The GameCore (server side) and the GameScene (client side) cpps were getting too big and unreadable. To sort this I changed the switch case I had with the states in different classes all inheriting from an abstract state class (similarly to my scenes). The code in the switch case was moved and it cleaned up the cpp. Now to update the game the code is ..
 
 ~~~
   state[static_cast<int>(current_state)]->update();
@@ -28,4 +28,4 @@ A problem occured when I needed to send packets back to the client. I had fucnti
 
 <br/>
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/llp-dd-network-rr-6){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/llp-dd-network-rr-6){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/llp-dd-network-rr-8){: .btn}
