@@ -22,7 +22,7 @@ published: true
 
 ## Features
 
-It is set on a abandoned ship which the player has to escape. It has multiple endings where teh player can die, can escape into space and can escape to a planet. Each ending gives a different score multiplier which is applied when the game ends. To escape the player has to pick up items which adds to their score but also allows them to explore the ship as some areas are restricted till the player has an item. 
+It is set on a abandoned ship which the player has to escape. It has multiple endings where the player can die, can escape into space and can escape to a planet. Each ending gives a different score multiplier which is applied when the game ends. To escape the player has to pick up items which adds to their score but also allows them to explore the ship as some areas are restricted till the player has an item. 
 
 <center>
 <figure>
@@ -35,14 +35,19 @@ It is set on a abandoned ship which the player has to escape. It has multiple en
 
 ## What I Learned
 
-I learned how to use a new IDE called Clion which is industry standard and also allows me to make games cross platform a lot easier. It consolidated my understanding of pointers which improved my understanding and usage of memory management.
+- I learned how to use Clion
+- Consolidated my understanding of pointers
+- Improved how I manage memory
+- Learned how to use vectors
+- Learned how code in BASIC
+- Improved my C++ skills
 
 ---
 
 ## Gameplay
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l131Fc57Yfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/l131Fc57Yfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ---
