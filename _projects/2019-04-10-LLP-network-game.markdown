@@ -1,13 +1,13 @@
 ---
 layout: project
 title:  "RAINFOREST RAMPAGE"
-date:   2019-04-110 15:51:00
+date:   2019-04-10 15:51:00
 author: Lewis Bond
 categories: 
 - project
 tagged: Fun, ASGE, C++, Clion, LLP, University
 website: https://github.com/lbondi7
-img: Coming Soon.png
+img: /Coming Soon.png
 carousel:
 - /Uni/LLP/Ex-Machina/DeityBO_Menu.png
 - /Uni/LLP/Ex-Machina/DeityBO_Game2.png
