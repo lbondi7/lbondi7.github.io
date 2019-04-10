@@ -9,9 +9,9 @@ tagged: Fun, ASGE, C++, Clion, LLP, University
 website: https://github.com/lbondi7
 img: Coming Soon.png
 carousel:
-- Coming Soon.png
-- Coming Soon.png
-- Coming Soon.png
+- /project/Coming Soon.png
+- /project/Coming Soon.png
+- /project/Coming Soon.png
 abstract: A network game based on our board game we designed
 published: true
 ---
