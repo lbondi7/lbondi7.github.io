@@ -20,7 +20,7 @@ The GameCore (server side) and the GameScene (client side) cpps were getting too
 
 ## Issue
 
-A problem occured when I needed to send packets back to the client. I had fucntions that did this is in the game core called <i>sendMap()</i>, <i>sendPlayers()</i>, etc. But with the code now in different classes I couldnt call these fucntion as they were in the game core and I needed access to them in each state. This would of meant duplicating the code and having the same fucntion for each class. The code was put in a namespace called Packet Compiler and whenever I want to send a packet to a client I call this one of these fucntions from the namespace and it sends the data to the clients.
+A problem occured when I needed to send packets back to the client. I had functions that did this is in the game core called <i>sendMap()</i>, <i>sendPlayers()</i>, etc. But with the code now in different classes I couldnt call these function as they were in the game core and I needed access to them in each state. This would of meant duplicating the code and having the same function for each class. The code was put in a namespace called Packet Compiler and whenever I want to send a packet to a client I call this one of these functions from the namespace and it sends the data to the clients.
 
 ~~~
     PacketCompiler::sendPlayerTurn(server, *current_player_turn);
