@@ -7,13 +7,11 @@ categories:
 - project
 tagged: Fun, ASGE, C++, Clion, LLP, University
 website: https://github.com/lbondi7
-img: /Coming Soon.png
+img: Coming Soon.png
 carousel:
-- /Uni/LLP/Ex-Machina/DeityBO_Menu.png
-- /Uni/LLP/Ex-Machina/DeityBO_Game2.png
-- /Uni/LLP/Ex-Machina/DeityBO_LevelBuilder.png
-- /Uni/LLP/Ex-Machina/DeityBO_LoadLevel.png
-- /Uni/LLP/Ex-Machina/DeityBO_CustomLevel.png
+- Coming Soon.png
+- Coming Soon.png
+- Coming Soon.png
 abstract: A network game based on our board game we designed
 published: true
 ---
@@ -28,7 +26,7 @@ The game is a 2-4 player network game, where players have to move around the boa
 
 <center>
 <figure>
-    <a href="/assets/img/Coming Soon.png"><img src="/assets/img/Coming Soon.png"></a>
+    <a href="/assets/img/project/Coming Soon.png"><img src="/assets/img/project/Coming Soon.png"></a>
     <figcaption>Coming Soon.</figcaption>
 </figure>
 </center>
