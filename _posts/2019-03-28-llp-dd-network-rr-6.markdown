@@ -12,7 +12,7 @@ published: true
 
 ## Reconnecting
 
-For the game, one of the requirements is to allow a player to disconnect and reconnect. For this, I used a bool on the server that gets set to true when a player disconnects. This triggers the game core state to go to the disconnection state and sends a similar state to all the players. In this state not data is sent or receive by either the server or the players until the disconnected player rejoins or is timed out. When the payer first connects to the server, it collects their ip address and stores it so when they try and reconnect it checks the stored ip address against the reconnecting client. If they match then it allows them to join in the game again. If the player doesn't reconnect in time then it sets a bool on the player to false and all other players ignore them when udating.
+For the game, one of the requirements is to allow a player to disconnect and reconnect. For this, I used a bool on the server that gets set to true when a player disconnects. This triggers the game core state to go to the disconnection state and sends a similar state to all the players. In this state not data is sent or receive by either the server or the players until the disconnected player rejoins or is timed out. When the payer first connects to the server, it collects their ip address and stores it so when they try and reconnect it checks the stored ip address against the reconnecting client. If they match then it allows them to join in the game again. If the player doesn't reconnect in time then it sets a bool on the player to false and all other players ignore them when updating.
 
 ## Images
 
