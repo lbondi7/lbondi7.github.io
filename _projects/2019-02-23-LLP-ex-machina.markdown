@@ -37,14 +37,18 @@ The game is set in a city where the player is a block and has to progress throug
 
 ## What I Learned
 
-I consolidated my understanding of Clion as well as c++. I learned about component based programming and incorporated that into the game. I also learned how useful a level buidler is when creating levels. It m=ade it much easier to create teh levels as we didnt need to keep chaning little values bit by bit to get the level we wanted, we could just drag and drop it in. I also learned about how the components should talk to one another through discussing it with my lecturer.
+- Consolidated my understanding of Clion
+- Component based programming
+- Consolidated my understanding of inheritence in OO programming
+- How important **constant** communication in a team is
+- No matter how good your code is since we're making a game the most important aspect is gameplay and how it feels to play
 
 ---
 
 ## Trailer
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBajYHEbLPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/GBajYHEbLPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ---
@@ -54,7 +58,7 @@ I consolidated my understanding of Clion as well as c++. I learned about compone
 
 <p style="text-align: center">
    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wx1z6k1Ga_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/Wx1z6k1Ga_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
@@ -62,8 +66,8 @@ I consolidated my understanding of Clion as well as c++. I learned about compone
 
 #### Links
 
-[DEV DIARY](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-1){: .btn}
-[POST MORTEM](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/post%20mortem/llp-dd-ExMachina-post_mortem){: .btn}
+[DEV DIARY](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-1){: .btn}
+[POST MORTEM](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/post%20mortem/llp-dd-ExMachina-post_mortem){: .btn}
 [GAMPLAY VIDEO](https://www.youtube.com/embed/Wx1z6k1Ga_o){:target="blank" rel = "noopener"}{: .btn}
 
 ---
