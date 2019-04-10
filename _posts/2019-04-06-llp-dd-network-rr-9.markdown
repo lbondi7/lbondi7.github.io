@@ -27,7 +27,7 @@ As you can see the string is passed in but we have to do string.data() in order 
 <center>
 	<figure>
 <a href="/assets/img/blog//Uni/LLP/RainforestRampageDevDiary/BasicChatroom.gif"><img src="/assets/img/blog//Uni/LLP/RainforestRampageDevDiary/BasicChatroom.gif" width = "600" height = "338"></a>
-		<figcaption>The user inputting the IP address.</figcaption>
+		<figcaption>The user talking to another player</figcaption>
 	</figure>
 </center>
 
