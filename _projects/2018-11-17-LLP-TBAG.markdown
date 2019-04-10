@@ -54,8 +54,8 @@ It is set on a abandoned ship which the player has to escape. It has multiple en
 
 #### Links
 
-[DEV DIARY](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-1){: .btn}
-[POST MORTEM](https://lbondi7.github.io/developer%20diary/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/post%20mortem/llp-dd-TBAG-post_mortem){: .btn}
+[DEV DIARY](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/llp-dd-TBAG-1){: .btn}
+[POST MORTEM](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/text%20based%20adventure%20dev%20diary/post%20mortem/llp-dd-TBAG-post_mortem){: .btn}
 [GAMPLAY VIDEO](https://www.youtube.com/watch?v=l131Fc57Yfs){: .btn}
 
 ---
