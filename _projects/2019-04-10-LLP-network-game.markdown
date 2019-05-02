@@ -7,11 +7,12 @@ categories:
 - project
 tagged: Fun, ASGE, C++, Clion, LLP, University
 website: https://github.com/lbondi7
-img: Coming Soon.png
+img: Uni/LLP/RainforestRampage/title.png
 carousel:
-- /project/Coming Soon.png
-- /project/Coming Soon.png
-- /project/Coming Soon.png
+- Uni/LLP/RainforestRampage/Lobby.png
+- Uni/LLP/RainforestRampage/Game1.png
+- Uni/LLP/RainforestRampage/Pause.png
+- Uni/LLP/RainforestRampage/Game3.png
 abstract: A network game based on our board game we designed
 published: true
 ---
@@ -26,8 +27,8 @@ The game is a 2-4 player network game, where players have to move around the boa
 
 <center>
 <figure>
-    <a href="/assets/img/project/Coming Soon.png"><img src="/assets/img/project/Coming Soon.png"></a>
-    <figcaption>Coming Soon.</figcaption>
+    <a href="/assets/img/project/Uni/LLP/RainforestRampage/Game2.png"><img src="/assets/img/project/Uni/LLP/RainforestRampage/Game2.png" width="448" height="252"></a>
+    <figcaption>A snapshot of the game.</figcaption>
 </figure>
 </center>
 
@@ -35,11 +36,10 @@ The game is a 2-4 player network game, where players have to move around the boa
 
 ## What I Learned
 
-
----
-
-## Trailer
-
+ - Consolidated my understanding of Clion
+ - I learned about networking and how sending game data to clients and a server
+ - I learned how to setup a network game in a proficient way
+ - I consoidated my undertsanding of a component based programming
 
 ---
 
