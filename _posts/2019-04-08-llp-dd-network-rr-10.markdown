@@ -38,4 +38,4 @@ When the player input equals <i>'USE_CARD'</i> the player can click on the card 
 <br/>
 
 [PREVIOUS BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/llp-dd-network-rr-9){: .btn}
-[POST MORTEM](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/network%20game%20post%20mortem/llp-dd-network-game-post_mortem){: .btn}
+[POST MORTEM](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/post%20mortem/llp-dd-network-game-post_mortem){: .btn}
