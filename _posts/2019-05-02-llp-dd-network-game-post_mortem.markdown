@@ -3,7 +3,7 @@ layout: post
 title:  "Ex-Machina Game Dev Diary: Post Mortem"
 date:   2019-05-02
 author: Lewis Bond
-categories: [Low Level Programming Dev Diary, Network Game Dev Diary, Network Game Post Mortem]
+categories: [Low Level Programming Dev Diary, Network Game Dev Diary, Post Mortem]
 img: /Uni/LLP/RainforestRampageDevDiary/RainforestRampageCover.png
 thumb: /Uni/LLP/RainforestRampage/RainforestRampageThumb.png
 published: true
