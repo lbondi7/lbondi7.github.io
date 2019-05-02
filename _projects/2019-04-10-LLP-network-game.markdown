@@ -51,6 +51,9 @@ The game is a 2-4 player network game, where players have to move around the boa
 
 #### Links
 
+[BLOG](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/llp-dd-network-rr-1){: .btn}
+[POST MORTEM](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/network%20game%20dev%20diary/post%20mortem/llp-dd-network-game-post_mortem){: .btn}
+[VIDEO](https://youtu.be/O-NTs8C3xlY){: .btn}
 
 ---
 
