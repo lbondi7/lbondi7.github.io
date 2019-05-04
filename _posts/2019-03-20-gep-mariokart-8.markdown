@@ -19,7 +19,7 @@ The waypoints are used for multiple aspects of our game.
  - Reseting the player
  - Some items (red shell/blue shell)
 
-This utilises the positions imported from blender to place where the waypoints are and then a oriented bounding box is placed at that point. This is used to increment the waypoint integer on the player whenever they enter the waypoint, and then that, a lap integer the player has and the posiiton is used to calulate when they're current ranking in the race is. Once the player enters the last waypoint then the lap integer increments.
+This utilises the positions imported from blender to place where the waypoints are and then a oriented bounding box is placed at that point. This is used to increment the waypoint integer on the player whenever they enter the waypoint, and then that, a lap integer the player has and the position is used to calulate when they're current ranking in the race is. Once the player enters the last waypoint then the lap integer increments.
 
 ## Issue
 
