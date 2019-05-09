@@ -30,4 +30,4 @@ At the moment, there is a issue importing the position and rotation from blender
 Toby and evan are handling items but they are thinking of using the waypoints as a way to make the red and blue shells go around the track until they reach the target player. That system might involve a clever hybrid of the waypoints and the system they are using for the NPCs in the game.
 
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-7){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-7){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-9){: .btn}
