@@ -54,4 +54,4 @@ I learned about how to use Direct X and how it works. It was a hard task but in 
 I learned how vital it is working as a team espically on big projects like this as one person could not produce the project we have. Having a mixture of skills in the teams helps from people who are better at the maths, to people who are better with tools and making systems to help other people with their systems. Thsi enables the group to work together and get on with the task. 
 
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-8){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-13){: .btn}
