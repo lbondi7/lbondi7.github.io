@@ -25,7 +25,7 @@ For the BETA we have a stripped back version of the mario kart. It had one track
 
 #### Toolkit
 
-The toolkit is used as teh asset pipeline so it imports all our models, sprites, sounds or any data that we need the toolkit is also used to organise and change the json files that use to store all the data for the game.
+The toolkit is used as the asset pipeline so it imports all our models, sprites, sounds or any data that we need the toolkit is also used to organise and change the json files that use to store all the data for the game.
 
 #### Physics System
 
@@ -33,11 +33,11 @@ The physics showed how we got track collision working so it allowed th kart to b
 
 #### Camera System
 
-The camera system showed off teh different cameras we had in teh game such as a cinematic cam for the intros, a follow cam for each player and a orbit which span around the player once they had crossed the finish line.
+The camera system showed off the different cameras we had in the game such as a cinematic cam for the intros, a follow cam for each player and a orbit which span around the player once they had crossed the finish line.
 
 #### Item System
 
-The item work in the same way to the original mario kart in that a player would go through an item box to pick up an item and then be able to use that item when they pressed a certain button.
+The items work in the same way to the original mario kart in that a player would go through an item box to pick up an item and then be able to use that item when they pressed a certain button.
 
 #### Sounds System
 
