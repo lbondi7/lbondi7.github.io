@@ -11,7 +11,7 @@ published: true
 <!--more-->
 
 ## Data Driven
-The cameras were too hard coded before, as all the variables were set in the camera header and were magic numbers. This had to be changed in order the cameras to be more usable. The data that was shared ebtween all the cameras were taken out of the camera class and stored in a json file. This enabled the user to change the configurations in the json without having to go into the code base.It was helped with Matt's tool which had a nice GUI, in which teh user could adjust values without having to see the json file (example shown below). 
+The cameras were too hard coded before, as all the variables were set in the camera header and were magic numbers. This had to be changed in order the cameras to be more usable. The data that was shared ebtween all the cameras were taken out of the camera class and stored in a json file. This enabled the user to change the configurations in the json without having to go into the code base. It was helped with Matt's tool which had a nice GUI, in which the user could adjust values without having to see the json file (example shown below). 
 
 ~~~
   "FOLLOW": {
@@ -25,7 +25,7 @@ The cameras were too hard coded before, as all the variables were set in the cam
   },
 ~~~
 
-Any data that shared across multiple camera instances such as how fast teh orbit cam span or what psoitions the cinematic camera went to were put into the CameraData struct. This was called by the service locator and it stored all the data shared across multiple cameras. This meant now, every instantiation of camera didn't hold a vector of its possible cinematic positions which never changed so multiple vectors were created unnecessarily.
+Any data that shared across multiple camera instances such as how fast the orbit cam span or what psoitions the cinematic camera went to were put into the CameraData struct. This was called by the service locator and it stored all the data shared across multiple cameras. This meant now, every instantiation of camera didn't hold a vector of its possible cinematic positions which never changed so multiple vectors were not created unnecessarily.
 
 
 [PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-10){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-12){: .btn}
