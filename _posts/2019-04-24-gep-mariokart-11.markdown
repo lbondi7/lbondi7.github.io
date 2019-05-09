@@ -28,4 +28,4 @@ The cameras were too hard coded before, as all the variables were set in the cam
 Any data that shared across multiple camera instances such as how fast teh orbit cam span or what psoitions the cinematic camera went to were put into the CameraData struct. This was called by the service locator and it stored all the data shared across multiple cameras. This meant now, every instantiation of camera didn't hold a vector of its possible cinematic positions which never changed so multiple vectors were created unnecessarily.
 
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-10){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-10){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-12){: .btn}
