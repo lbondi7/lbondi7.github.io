@@ -48,4 +48,4 @@ The sounds system is used to play certain sound effects or music at certain poin
 The system displayed all the information that a player needs to know such as their current lap, position and what item they have. This what specific to each player.
 
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-8){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-8){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-10){: .btn}
