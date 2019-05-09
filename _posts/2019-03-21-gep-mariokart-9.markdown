@@ -37,7 +37,7 @@ The camera system showed off teh different cameras we had in teh game such as a 
 
 #### Item System
 
-The item work in the smae way to the original mario kart in that a player would go through an item box to pick up an item and then be able to use that item when they pressed a certain button.
+The item work in the same way to the original mario kart in that a player would go through an item box to pick up an item and then be able to use that item when they pressed a certain button.
 
 #### Sounds System
 
