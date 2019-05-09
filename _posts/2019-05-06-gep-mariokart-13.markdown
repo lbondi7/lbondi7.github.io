@@ -23,7 +23,7 @@ This was changed when the blender plugin was complete. It allowed for the user t
 </center>
 
 
-This was done by storing a vector of Vector3 and when reading in the data from a json file it all gets stored into the vector and the cinematic camera loops through until it is finsihed. This allowed the user to customise cinematic camera intros for any track they imported or created. The gif below shows the cinematic cmaeras that were set up using the blender plugin for Mute City.
+This was done by storing a vector of Vector3 and when reading in the data from a json file. The cinematic camera loops through until it is finished. This allowed the user to customise cinematic camera intros for any track they imported or created, allowing for any amount of cinematic cameras. The gif below shows the cinematic cameras that were set up using the blender plugin for Mute City.
 
 <center>
 	<figure>
