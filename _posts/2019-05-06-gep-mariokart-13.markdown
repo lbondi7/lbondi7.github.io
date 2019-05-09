@@ -14,7 +14,7 @@ published: true
 
 At first the cinematic cameras were hard coded. This was for the BETA to show off that we had cinematic cameras but it was specifically designed for Mario Kart Stadium and thats it. 
 
-This was changed when the blender plugin was complete. It allowed for the user to position two cameras in blender and a look at point, save those values, read them in to Direct X and get the cinematic camera to follow those positons. The gif below shows tehblender tool in action. The user clicks to create the cameras and the look at position and the camera always point to where the look at position is. This allows the easier visualisation of how the cinematic will look.
+This was changed when the blender plugin was complete. It allowed for the user to position two cameras in blender and a look at point, save those values, read them in to Direct X and get the cinematic camera to follow those positons. The gif below shows the blender tool in action. The user clicks to create the cameras and the look at position and the camera always point to where the look at position is. This allows the easier visualisation of how the cinematic will look.
 
 <center>
 	<figure>
