@@ -22,5 +22,5 @@ This week I implemented camera movement to enable us to test the project without
 </center>
 <br/>
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/audio-visual%20production%20dev%20diary/ex-machina%20dev%20diary/avp-dd-Deforestation-1){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/audio-visual%20production%20dev%20diary/avp-dd-Deforestation-1){: .btn}
 [NEXT BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/AVP-dd-ExMachina-3){: .btn}
