@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Audio-Visual Production"
+title:  "Audio-Visual Production: Building the Terrain"
 date:   2020-01-24
 author: Lewis Bond
 categories: [Audio-Visual Production Dev Diary]
@@ -16,8 +16,7 @@ This week I made some terrain for the project using the terrain builder tool in 
 
 <center>
 	<figure class="half">
-	    <a href="/assets/img/blog/Uni/AVP/unityTerrain.jpg"><img src="/assets/img/blog/Uni/AVP/unityTerrain.jpg" height="100px"></a>
-		<a href="/assets/img/blog/Uni/AVP/blenderTerrain.jpg"><img src="/assets/img/blog/Uni/AVP/blenderTerrain.jpg" height="100px"></a>
+	    <a href="/assets/img/blog/Uni/AVP/unityTerrain.jpg"><img src="/assets/img/blog/Uni/AVP/unityTerrain.jpg" width="100px"></a><a href="/assets/img/blog/Uni/AVP/blenderTerrain.jpg"><img src="/assets/img/blog/Uni/AVP/blenderTerrain.jpg" width="100px"></a>
 	    <figcaption>The image on the left show the high quality terrain in Unity and on the right shows it converted into a low poly mesh in blender.</figcaption>
 	</figure>
 </center>
