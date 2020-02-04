@@ -21,7 +21,7 @@ I had an issue with the model as when shrinking the leaves, since it is a child 
 <center>
 	<figure>
 	    <a href="/assets/img/blog/Uni/AVP/witherTree.gif"><img src="/assets/img/blog/Uni/AVP/witherTree.gif" height="300px"></a>
-	    <figcaption>The gif show the camera movement with is following the mouse.</figcaption>
+	    <figcaption>The gif shows how the trees will look whenburning gradually and withering away.</figcaption>
 	</figure>
 </center>
 <br/>
