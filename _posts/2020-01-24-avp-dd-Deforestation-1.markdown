@@ -4,8 +4,8 @@ title:  "Audio-Visual Production"
 date:   2020-01-24
 author: Lewis Bond
 categories: [Audio-Visual Production Dev Diary]
-img: /Uni/LLP/Ex-MachinaDevDiary/Ex-Machina.jpg
-thumb: /Uni/LLP/Ex-Machina/Ex-Machina.png
+img: /Uni/AVP/Deforestation.jpg
+thumb: /Uni/AVP/Oculus.png
 published: true
 ---
 <!--more-->
@@ -16,12 +16,12 @@ This week I made some terrain for the project using the terrain builder tool in 
 
 <center>
 	<figure class="half">
-	    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Geometry_Dash.jpg"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/Geometry_Dash.jpg" height="50"></a>
-			    <a href="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/HotlineMiami.jpg"><img src="/assets/img/blog/Uni/LLP/Ex-MachinaDevDiary/HotlineMiami.jpg" height="50"></a>
+	    <a href="/assets/img/blog/Uni/AVP/unityTerrain.jpg"><img src="/assets/img/blog/Uni/AVP/unityTerrain.jpg" height="200px"></a>
+		<a href="/assets/img/blog/Uni/AVP/blenderTerrain.jpg"><img src="/assets/img/blog/Uni/AVP/blenderTerrain.jpg" height="200px"></a>
 	    <figcaption>The image on the left show the high quality terrain in Unity and on the right shows it converted into a low poly mesh in blender.</figcaption>
 	</figure>
 </center>
 <br/>
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-1){: .btn}
-[NEXT BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/llp-dd-ExMachina-3){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/AVP-dd-ExMachina-1){: .btn}
+[NEXT BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/AVP-dd-ExMachina-3){: .btn}
