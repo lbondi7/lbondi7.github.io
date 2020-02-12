@@ -16,7 +16,7 @@ Today was all about testing the fire particle system we have implemented. I was 
 
 <center>
 	<figure>
-		<a href="C:/Repositories/lbondi7.github.io/assets/img/blog/Uni/AVP/smallFire.jpg"><img src="C:/Repositories/lbondi7.github.io/assets/img/blog/Uni/AVP/smallFire.jpg" height="200px"></a>
+		<a href="/assets/img/blog/Uni/AVP/smallFire.jpg"><img src="/assets/img/blog/Uni/AVP/smallFire.jpg" height="200px"></a>
 	    <figcaption>This image shows the fire particle system that is being used without any modifications.</figcaption>
 	</figure>
 </center>
@@ -26,7 +26,7 @@ After changing some parameters to see how the particle system looked, the emitte
 
 <center>
 	<figure class = "half">
-		<a href="C:/Repositories/lbondi7.github.io/assets/img/blog/Uni/AVP/treeFire.jpg"><img src="C:/Repositories/lbondi7.github.io/assets/img/blog/Uni/AVP/treeFire.jpg" height="200px"></a>		<a href="C:/Repositories/lbondi7.github.io/assets/img\blog/Uni\AVP/terrainFire.jpg"><img src="C:/Repositories/lbondi7.github.io/assets/img\blog/Uni\AVP/terrainFire.jpg" height="200px"></a>
+		<a href="/assets/img/blog/Uni/AVP/treeFire.jpg"><img src="/assets/img/blog/Uni/AVP/treeFire.jpg" height="200px"></a>		<a href="/assets/img/blog/Uni/AVP/terrainFire.jpg"><img src="/assets/img/blog/Uni/AVP/terrainFire.jpg" height="200px"></a>
 	    <figcaption>These images show the fire particles being instantiated using the mesh of the tree (left) and the terrain (right).</figcaption>
 	</figure>
 </center>
