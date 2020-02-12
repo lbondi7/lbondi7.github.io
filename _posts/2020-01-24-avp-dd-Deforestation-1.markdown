@@ -12,7 +12,7 @@ published: true
 
 ## Terrain
 
-This week I made some terrain for the project using the terrain builder tool in Unity. The terrain had to fit the purpose of it looking like the amazon ground level for the most part but with a large flat area where the farming and production building/land will be located. To fit along with the low-poly theme I had to export it as an obj and convert in blender in a low poly mesh. This then gave it the feel we were going along with with the assets we have already aquired.
+This week I made some terrain for the project using the terrain builder tool in Unity. The terrain had to fit the purpose of it looking like the amazon ground level for the most part but with a large flat area where the farming and production building/land will be located. To fit along with the low-poly theme I had to export it as an obj and convert in blender in a low poly mesh. This then gave it the feel we were going along with with the assets we have already acquired.
 
 <center>
 	<figure class="half">
@@ -22,5 +22,4 @@ This week I made some terrain for the project using the terrain builder tool in 
 </center>
 <br/>
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/low%20level%20programming%20dev%20diary/ex-machina%20dev%20diary/AVP-dd-ExMachina-1){: .btn}
 [NEXT BLOG POST](https://lbondi7.github.io/audio-visual%20production%20dev%20diary/avp-dd-Deforestation-2){: .btn}

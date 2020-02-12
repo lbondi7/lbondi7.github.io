@@ -17,7 +17,7 @@ This week I implemented camera movement to enable us to test the project without
 <center>
 	<figure>
 	    <a href="/assets/img/blog/Uni/AVP/cameraMovement.gif"><img src="/assets/img/blog/Uni/AVP/cameraMovement.gif" height="300px"></a>
-	    <figcaption>The gif show the camera movement with is following the mouse.</figcaption>
+	    <figcaption>The gif shows the camera movement with it following the mouse.</figcaption>
 	</figure>
 </center>
 <br/>
