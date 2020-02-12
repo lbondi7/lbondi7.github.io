@@ -26,7 +26,7 @@ After changing some parameters to see how the particle system looked, the emitte
 
 <center>
 	<figure class = "half">
-		<a href="/assets/img/blog/Uni/AVP/treeFire.jpg"><img src="/assets/img/blog/Uni/AVP/treeFire.jpg" height="200px"></a>		<a href="/assets/img/blog/Uni/AVP/terrainFire.jpg"><img src="/assets/img/blog/Uni/AVP/terrainFire.jpg" height="200px"></a>
+		<a href="/assets/img/blog/Uni/AVP/treeFire.jpg"><img src="/assets/img/blog/Uni/AVP/treeFire.jpg" height="100px"></a>		<a href="/assets/img/blog/Uni/AVP/terrainFire.jpg"><img src="/assets/img/blog/Uni/AVP/terrainFire.jpg" height="100px"></a>
 	    <figcaption>These images show the fire particles being instantiated using the mesh of the tree (left) and the terrain (right).</figcaption>
 	</figure>
 </center>
