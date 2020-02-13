@@ -37,9 +37,9 @@ The game is set in a city where the player is a block and has to progress throug
 
 ## What I Learned
 
-- Consolidated my understanding of Clion
+- Consolidated my understanding of CLion
 - Component based programming
-- Consolidated my understanding of inheritence in OO programming
+- Consolidated my understanding of inheritance in OO programming
 - How important **constant** communication in a team is
 - No matter how good your code is since we're making a game the most important aspect is gameplay and how it feels to play
 
@@ -72,4 +72,4 @@ The game is set in a city where the player is a block and has to progress throug
 
 ---
 
-**This game was made for educatonal purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 
+**This game was made for educational purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 

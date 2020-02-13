@@ -35,7 +35,7 @@ It is set on a abandoned ship which the player has to escape. It has multiple en
 
 ## What I Learned
 
-- I learned how to use Clion
+- I learned how to use CLion
 - Consolidated my understanding of pointers
 - Improved how I manage memory
 - Learned how to use vectors
@@ -60,4 +60,4 @@ It is set on a abandoned ship which the player has to escape. It has multiple en
 
 ---
 
-**This game was made for educatonal purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 
+**This game was made for educational purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 

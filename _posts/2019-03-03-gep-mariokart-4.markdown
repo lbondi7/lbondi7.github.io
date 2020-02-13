@@ -3,7 +3,7 @@ layout: post
 title:  "Mario Kart Dev Diary: Orbit Camera"
 date:   2019-03-03
 author: Lewis Bond
-categories: [Game Engine Programming Dev Diary, Mario Kart Dev Diary]
+categories: [Game Engine Programming Dev Diary]
 img: /Uni/GEP/MarioKart/mariokart.png
 thumb: /Uni/GEP/MarioKart/marioKart.png
 published: true
@@ -12,7 +12,7 @@ published: true
 
 ## Orbit Camera
 
-When a person finshes a race in mario kart it lerps round to be in front of the player. The link below shows the effect. I have been working on an orbit camera to do this effect.
+When a person finishes a race in Mario kart it lerps round to be in front of the player. The link below shows the effect. I have been working on an orbit camera to do this effect.
 [MARIO KART EFFECT](https://youtu.be/GHz6s5iVpYU?t=469){:target="blank" rel = "noopener"}{: .btn}
 
 Since it need to circle around the player I knew I needed to use trigonometry. As [Maths Is Fun](https://www.mathsisfun.com/algebra/trigonometry.html) shows, I need to use the opposite and the adjacent to get the hypotenuse. Once I had this it was easy. The center of the model was used as the pivot and the angle was changed to make it spin around the kart. M_dpos was a vector3 used to put the camera a set distance behind the car and to get the x of this vector was used as the opposite, the z was used to get the adjacent.
@@ -34,6 +34,6 @@ The angle is increased by an amount every frame and the angle is then divided by
 
 ## Problem
 
-This issues with this method is that it uses two dimensional ths but I need it to work in three dimensions so what way the cart is facing it will orbit at the amount I want. For this I will have to incorperate the matrix and orientation of the car so it orbits around no matter how the car is rotated.
+This issues with this method is that it uses two dimensional maths, but I need it to work in three dimensions so what way the cart is facing it will orbit at the amount I want. For this I will have to incorporate the matrix and orientation of the car so it orbits around no matter how the car is rotated.
 
 [PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-3){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-5){: .btn}

@@ -18,13 +18,13 @@ abstract: A particle system designer I made for game engine architecture
 published: true
 ---
 
-## Particle System Deisgner
+## Particle System Designer
 
 ---
 
 ## Features
 
-This is a particle system deisgner that is made in ASGE. It allows a user to create and manipulate particles to deisgn a particle system to produce an effect such as rain, fire, snow etc. The user clicks on whether they want to edit teh particles or the emitter. Once the user is happy with the particle effect, they then can give it a filename and save it. It saves all the information into a txt file which then is used to read teh data back in.
+This is a particle system designer that is made in ASGE. It allows a user to create and manipulate particles to design a particle system to produce an effect such as rain, fire, snow etc. The user clicks on whether they want to edit the particles or the emitter. Once the user is happy with the particle effect, they then can give it a filename and save it. It saves all the information into a txt file which then is used to read the data back in.
 
 <center>
 <figure class = "half">

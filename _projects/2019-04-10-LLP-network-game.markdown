@@ -36,10 +36,10 @@ The game is a 2-4 player network game, where players have to move around the boa
 
 ## What I Learned
 
- - Consolidated my understanding of Clion
+ - Consolidated my understanding of CLion
  - I learned about networking and how sending game data to clients and a server
  - I learned how to setup a network game in a proficient way
- - I consoidated my undertsanding of a component based programming
+ - I consolidated my understanding of a component based programming
 
 ---
 
@@ -57,4 +57,4 @@ The game is a 2-4 player network game, where players have to move around the boa
 
 ---
 
-**This game was made for educatonal purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 
+**This game was made for educational purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 

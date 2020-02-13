@@ -3,7 +3,7 @@ layout: post
 title:  "Mario Kart Dev Diary: More Cameras"
 date:   2019-02-25
 author: Lewis Bond
-categories: [Game Engine Programming Dev Diary, Mario Kart Dev Diary]
+categories: [Game Engine Programming Dev Diary]
 img: /Uni/GEP/MarioKart/mariokart.png
 thumb: /Uni/GEP/MarioKart/marioKart.png
 published: true
@@ -29,6 +29,6 @@ I figured out how to set the size of viewport and that the scissor rect is used 
 
 The first image shows the viewport normally and the second shows the viewport being 1.5x bigger than the window and and the rect being 1.1x bigger than the window.
 
-These two variables, is what is needed to get the splitscreen working, but I havent quite figure out what needs to be done. Does there need to be multiple viewports to accommodate for multiple cameras or does using the scissor rect can one viewport being used with multiple scissors rects spliting up the screen.
+These two variables, is what is needed to get the splitscreen working, but I haven't quite figure out what needs to be done. Does there need to be multiple viewports to accommodate for multiple cameras or does using the scissor rect can one viewport being used with multiple scissors rects splitting up the screen.
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-1){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-3){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/gep-mariokart-1){: .btn} [NEXT BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/gep-mariokart-3){: .btn}
