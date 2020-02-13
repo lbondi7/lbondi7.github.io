@@ -3,7 +3,7 @@ layout: post
 title:  "Mario Kart Dev Diary: Post Mortem"
 date:   2019-05-08
 author: Lewis Bond
-categories: [Game Engine Programming Dev Diary, Mario Kart Dev Diary, Post Mortem]
+categories: [Game Engine Programming Dev Diary, Post Mortem]
 img: /Uni/GEP/MarioKart/mariokart.png
 thumb: /Uni/GEP/MarioKart/marioKart.png
 published: true
@@ -54,4 +54,4 @@ I learned about how to use Direct X and how it works. It was a hard task but in 
 I learned how vital it is working as a team especially on big projects like this as one person could not produce the project we have. Having a mixture of skills in the teams helps from people who are better at the maths, to people who are better with tools and making systems to help other people with their systems. This enables the group to work together and get on with the task. 
 
 
-[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/mario%20kart%20dev%20diary/gep-mariokart-13){: .btn}
+[PREVIOUS BLOG POST](https://lbondi7.github.io/game%20engine%20programming%20dev%20diary/gep-mariokart-13){: .btn}
