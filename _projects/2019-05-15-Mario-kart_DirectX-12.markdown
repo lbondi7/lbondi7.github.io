@@ -15,7 +15,7 @@ carousel:
 - Uni/GEP/MarioKart7.jpg
 - Uni/GEP/MarioKart5.jpg
 - Uni/GEP/MarioKart6.jpg
-abstract: A rendistion of the classic game Mario Kart for Direct X 12
+abstract: A rendition of the classic game Mario Kart for Direct X 12
 published: true
 ---
 

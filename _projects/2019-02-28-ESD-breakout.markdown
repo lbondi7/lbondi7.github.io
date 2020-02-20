@@ -30,15 +30,15 @@ The original breakout game I made was done for my ESD module back in Feb 2018. I
 
 <center>
 <figure>
-    <a href="/assets/img/project/Uni/ESD/Breakout/firstBreakoutGame1.png"><img src="/assets/img/project/Uni/ESD/Breakout/firstBreakoutGame1.png" height = "100"></a>
+    <a href="/assets/img/project/Uni/ESD/Breakout/firstBreakoutGame1.png"><img src="/assets/img/project/Uni/ESD/Breakout/firstBreakoutGame1.png" width="50"></a>
     <figcaption>This shows what the original game looked like.</figcaption>
 </figure>
 </center>
 
 ## What I learned
 
-Even though I struggled with breakout I did learn about/consilidate my knkowledge on:
-  - Collsion
+Even though I struggled with breakout I did learn about/consolidate my knowledge on:
+  - Collision
   - Vectors
   - Arrays
   - Bounding Boxes
@@ -48,7 +48,7 @@ Even though I struggled with breakout I did learn about/consilidate my knkowledg
 
 ## Remake
 
-After seeings ome of the first years breakout I decided to revemp my old one to make it more fun. I have incorporated some of the techniques and skills, I picked up since I last did breakout:
+After seeings one of the first years breakout I decided to revamp my old one to make it more fun. I have incorporated some of the techniques and skills, I picked up since I last did breakout:
   - Scene Manager
   - Pause State
   - Leaderboard
@@ -58,9 +58,9 @@ After seeings ome of the first years breakout I decided to revemp my old one to 
 
 <center>
 <figure class = "third">
-    <a href="/assets/img/project/Uni/ESD/Breakout/breakoutGame.png"><img src="/assets/img/project/Uni/ESD/Breakout/breakoutGame.png" height="30"></a>
-      <a href="/assets/img/project/Uni/ESD/Breakout/breakoutGame8.png"><img src="/assets/img/project/Uni/ESD/Breakout/breakoutGame8.png" height="30"></a>
-       <a href="/assets/img/project/Uni/ESD/Breakout/breakoutLeaderboard.png"><img src="/assets/img/project/Uni/ESD/Breakout/breakoutLeaderboard.png" height="30"></a>
+    <a href="/assets/img/project/Uni/ESD/Breakout/breakoutGame.png"><img src="/assets/img/project/Uni/ESD/Breakout/breakoutGame.png" width="30"></a>
+      <a href="/assets/img/project/Uni/ESD/Breakout/breakoutGame8.png"><img src="/assets/img/project/Uni/ESD/Breakout/breakoutGame8.png" width="30"></a>
+      <a href="/assets/img/project/Uni/ESD/Breakout/breakoutLeaderboard.png"><img src="/assets/img/project/Uni/ESD/Breakout/breakoutLeaderboard.png" width="30"></a>
     <figcaption>This shows what the remake game looks like.</figcaption>
 </figure>
 </center>
@@ -68,14 +68,14 @@ After seeings ome of the first years breakout I decided to revemp my old one to 
 ## Gameplay
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CFmJ4LYCISs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/CFmJ4LYCISs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ---
 
 ## Future
 
-In the future, I am going to remake all my games an form ESD and also imrpove on this by adding a full leaderboard, level builder, more levels, more power ups and much more.
+In the future, I am going to remake all my games an form ESD and also improve on this by adding a full leaderboard, level builder, more levels, more power ups and much more.
 
 #### Links
 
@@ -83,4 +83,4 @@ In the future, I am going to remake all my games an form ESD and also imrpove on
 
 ---
 
-**This game was made for educatonal purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 
+**This game was made for educational purposes, for me show my improvement as a games developer and so this was not made for any commercial purposes.** 

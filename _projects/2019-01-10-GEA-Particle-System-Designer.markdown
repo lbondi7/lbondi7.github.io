@@ -39,7 +39,7 @@ This is a particle system designer that is made in ASGE. It allows a user to cre
 ## Demo Video
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4_7P505BYMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/4_7P505BYMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ---
