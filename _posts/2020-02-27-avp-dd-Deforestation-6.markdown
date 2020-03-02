@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Audio-Visual Production: Burning Trees"
-date:   2020-02-28
+date:   2020-02-27
 author: Lewis Bond
 categories: [Audio-Visual Production Dev Diary]
 img: /Uni/AVP/Deforestation.jpg
@@ -22,7 +22,7 @@ I managed to implement the complete system for burning the trees completely with
 </center>
 <br/>
 
-This will need to be improved as it will probably tank the Oculus Quest with their being so many particle systems so maybe extending the fire manager is required in order to achieve an effect without destroying the frame rate.
+This will need to be improved as it will probably tank the Oculus Quest with their being so many particle systems. Maybe extending the fire manager is required in order to achieve an effect, without destroying the frame rate.
 
 Implementing the fire burning the terrain mesh is next, the idea with that is to split the mesh up into smaller meshes. With this the user will look at each section and only that section will burn.
 
