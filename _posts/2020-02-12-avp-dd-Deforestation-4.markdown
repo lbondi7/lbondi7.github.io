@@ -28,8 +28,8 @@ After changing some parameters to see how the particle system looked, the emitte
 
 
 {% capture images %}
-    ../assets/img/blog/Uni/AVP/terrainFire.jpg
-    ../assets/img/blog/Uni/AVP/treeFire.jpg
+    /assets/img/blog/Uni/AVP/terrainFire.jpg
+    /assets/img/blog/Uni/AVP/treeFire.jpg
 {% endcapture %}
 {% include gallery images=images caption="Test" cols=2 %}
 </center>
