@@ -25,11 +25,15 @@ Today was all about testing the fire particle system we have implemented. I was 
 After changing some parameters to see how the particle system looked, the emitter was then changed to be the mesh of objects that are designed to catch fire such as the land and the trees. This worked well and so can be used for when implementing a more dynamic fire system.
 
 <center>
-	<figure class = "half">
-		<a href="/assets/img/blog/Uni/AVP/treeFire.jpg"><img src="/assets/img/blog/Uni/AVP/treeFire.jpg" height="50px"></a><a href="/assets/img/blog/Uni/AVP/terrainFire.jpg"><img src="/assets/img/blog/Uni/AVP/terrainFire.jpg" height="50px"></a>
-	    <figcaption>These images show the fire particles being instantiated using the mesh of the tree (left) and the terrain (right).</figcaption>
-	</figure>
+
+
+{% capture images %}
+    ../assets/img/blog/Uni/AVP/terrainFire.jpg
+    ../assets/img/blog/Uni/AVP/treeFire.jpg
+{% endcapture %}
+{% include gallery images=images caption="Test" cols=2 %}
 </center>
+
 <br/>
 
 Next is actually implementing the fire system. It is going to be started from when the user looks at one place for long enough then the fire will eventually start. Then, the fire starts spreading and any tree, bush or land it interacts with will be set alight. There will have to be restrictions though as it might be beyond the Oculus to simulate all these particle systems. To counter this, maybe only the trees/vegetation will be set on fire.
