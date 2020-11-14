@@ -12,7 +12,7 @@ carousel:
 - Uni/GEP/MarioKart1.jpg
 - Uni/GEP/MarioKart2.jpg
 - Uni/GEP/MarioKart3.jpg
-- Uni/GEP/MarioKart7.jpg
+- Uni/GEP/MarioKart7.JPG
 - Uni/GEP/MarioKart5.jpg
 - Uni/GEP/MarioKart6.jpg
 abstract: A rendition of the classic game Mario Kart for Direct X 12

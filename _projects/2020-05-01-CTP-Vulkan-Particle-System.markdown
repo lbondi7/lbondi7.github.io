@@ -12,8 +12,8 @@ carousel:
 - Uni/CTP/flowfield.PNG
 - Uni/CTP/dog.PNG
 - Uni/CTP/heart.PNG
-- Uni/CTP/flowfiel3.PNG
-abstract: A rendition of the classic game Mario Kart for Direct X 12
+- Uni/CTP/flowfield3.PNG
+abstract: A Particle System built in Vulkan that runs on the GPU. 
 published: true
 ---
 
