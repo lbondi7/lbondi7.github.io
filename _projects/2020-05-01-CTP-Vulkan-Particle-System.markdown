@@ -7,7 +7,7 @@ categories:
 - project
 tagged: Vulkan, CTP, UWEGames, C++, University
 website: https://github.com/lbondi7
-img: Uni/CTP/title.gif
+img: Uni/CTP/title2.gif
 carousel:
 - Uni/CTP/flowfield.PNG
 - Uni/CTP/dog.PNG
