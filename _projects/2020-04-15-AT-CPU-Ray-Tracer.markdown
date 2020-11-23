@@ -43,7 +43,8 @@ A BVH (bounding volume hierarchy) is used in the to make it for efficient for co
 <center>
 <figure>
     <a href="/assets/img/project/Uni/AT/bvh.png"><img src="/assets/img/project/Uni/AT/bvh.png" width="448" height="252"></a>
-    <figcaption>(Source - NVidia): A BVH example thats shows the multiple levels of bounding boxes and nodes.</figcaption>
+    <figcaption>A BVH example thats shows the multiple levels of bounding boxes and nodes. (Source - NVidia: https://developer.nvidia.com/blog/thinking-parallel-part-ii-tree-traversal-gpu/)</figcaption>
+
 </figure>
 </center>
 ---
