@@ -42,7 +42,7 @@ A BVH (bounding volume hierarchy) is used in the to make it for efficient for co
 
 <center>
 <figure>
-    <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2012%2F11%2Ffig03-bvh.png&imgrefurl=https%3A%2F%2Fdeveloper.nvidia.com%2Fblog%2Fthinking-parallel-part-ii-tree-traversal-gpu%2F&tbnid=fMWR3BvZCzL88M&vet=12ahUKEwi4xYn5s5ftAhVy8eAKHV2ICeQQMygBegUIARCZAQ..i&docid=S5WkmikpLZzquM&w=609&h=263&q=bvh%20example&client=firefox-b-d&ved=2ahUKEwi4xYn5s5ftAhVy8eAKHV2ICeQQMygBegUIARCZAQ"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdeveloper-blogs.nvidia.com%2Fwp-content%2Fuploads%2F2012%2F11%2Ffig03-bvh.png&imgrefurl=https%3A%2F%2Fdeveloper.nvidia.com%2Fblog%2Fthinking-parallel-part-ii-tree-traversal-gpu%2F&tbnid=fMWR3BvZCzL88M&vet=12ahUKEwi4xYn5s5ftAhVy8eAKHV2ICeQQMygBegUIARCZAQ..i&docid=S5WkmikpLZzquM&w=609&h=263&q=bvh%20example&client=firefox-b-d&ved=2ahUKEwi4xYn5s5ftAhVy8eAKHV2ICeQQMygBegUIARCZAQ" width="448" height="252"></a>
+    <a href="/assets/img/project/Uni/AT/bvh.png"><img src="/assets/img/project/Uni/AT/bvh.png" width="448" height="252"></a>
     <figcaption>(Source - NVidia): A BVH example thats shows the multiple levels of bounding boxes and nodes.</figcaption>
 </figure>
 </center>
