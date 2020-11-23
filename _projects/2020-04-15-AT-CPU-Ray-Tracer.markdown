@@ -23,7 +23,6 @@ published: true
 
 - Ray Tracer
 - C++
-- GPU programming
 - Area Lighting
 - BVH
 

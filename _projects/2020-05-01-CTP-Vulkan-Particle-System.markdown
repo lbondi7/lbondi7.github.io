@@ -61,7 +61,9 @@ Dynamic lighting was implemented with the use of PBR. A roughness and metallic v
 
 #### Links
 
+[4,000,000 Particles](https://www.youtube.com/watch?v=4fx94YAqrLc){: .btn}
 
+[Particles forming Shapes](https://www.youtube.com/watch?v=ceDCeDINXao){: .btn}
 
 ---
 
