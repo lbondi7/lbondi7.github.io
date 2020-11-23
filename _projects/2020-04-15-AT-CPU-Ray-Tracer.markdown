@@ -7,7 +7,7 @@ categories:
 - project
 tagged: Ray Tracer, AT, UWEGames, C++, University
 website: https://github.com/lbondi7
-img: Uni/AT/title.gif
+img: Uni/AT/title2.gif
 carousel:
 - Uni/AT/RayTracer.PNG
 - Uni/AT/RayTracer2.PNG
