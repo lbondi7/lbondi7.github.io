@@ -5,7 +5,7 @@ date:   2020-04-28 12:00:00
 author: Lewis Bond
 categories: 
 - project
-tagged: VR, AVP, UWEGames, C++, University
+tagged: VR, AVP, UWEGames, C#, University
 website: https://github.com/lbondi7
 img: Uni/AVP/cover.gif
 carousel:
