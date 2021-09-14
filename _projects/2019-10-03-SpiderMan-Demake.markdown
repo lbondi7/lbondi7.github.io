@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "CGD Game Jam 1"
+title:  "Spider Man"
 date:   2019-10-03 12:00:00
 author: Lewis Bond
 categories: 
@@ -38,7 +38,7 @@ published: true
 </figure>
 </center>
 
-In CGD we have to do 3 game jams to bond as team. This is the first game we made, it is a demake (a game that is remade but in a similar style to the atari games) of spiderman. Since it was a demake we had to stick to the atari resolution 160x192 or 192x160, have minimal colours, and only allowed a couple of features that are more advanced han the atari could handle. Our web swinging uses physics that weren't around back then, teh title of the game and the music. For this project my job was the wall crawling and the highscore leaderboards.
+In CGD we have to do 3 game jams to bond as team. This is the first game we made, it is a demake (a game that is remade but in a similar style to the atari games) of spiderman. Since it was a demake we had to stick to the atari resolution 160x192 or 192x160, have minimal colours, and only allowed a couple of features that are more advanced han the atari could handle. Our web swinging uses physics that weren't around back then, the title of the game and the music. For this project my job was the wall crawling and the highscore leaderboards.
 
 ### Objectives
 

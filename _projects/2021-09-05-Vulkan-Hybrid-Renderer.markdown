@@ -14,7 +14,7 @@ carousel:
 - Uni/CTP/heart.PNG
 - Uni/CTP/flowfield3.PNG
 abstract: A Particle System built in Vulkan that runs on the GPU. 
-published: true
+published: false
 ---
 
 ## Vulkan GPU Particle System C++

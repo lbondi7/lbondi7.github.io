@@ -2,7 +2,7 @@
 
 # Site settings
 title: Lewis Bond
-description: "Nothing"
+description: "A guy who screams at code for a living."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
 url: #"/https://lbondi7.github.io"
