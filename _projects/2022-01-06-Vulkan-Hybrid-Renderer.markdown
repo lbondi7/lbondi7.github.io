@@ -5,7 +5,7 @@ date:   2022-01-06 12:00:00
 author: Lewis Bond
 categories: 
 - project
-tagged: Vulkan, Dissertation, UWEGames, C++, University
+tagged: Vulkan, CTP, UWEGames, C++, University
 website: https://github.com/lbondi7
 img: Uni/CTD/TreeCompareDebug2.png
 carousel:
@@ -13,7 +13,7 @@ carousel:
 - Uni/CTD/DragonRRQSSTitle.png
 - Uni/CTD/DragonRRQSSDebugTitle.png
 - Uni/CTD/TreeRRQSSCulling.png
-abstract: A Hybrid Soft Shadow Renderer that uses Shadow Mapping and Ray Tracing 
+abstract: A Hybrid Soft Shadow Renderer that uses Shadow Mapping and Ray Tracing.
 published: true
 ---
 
