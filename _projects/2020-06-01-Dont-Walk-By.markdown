@@ -5,15 +5,15 @@ date:   2022-01-06 12:00:00
 author: Lewis Bond
 categories: 
 - project
-tagged: Vulkan, Unity, University
+tagged: Unity, University
 website: https://github.com/lbondi7
-img: Uni/CTD/TreeCompareDebug2.png
+img: Uni/CTP/title2.gif
 carousel:
-- Uni/CTD/DragonCompare.png
-- Uni/CTD/DragonRRQSSTitle.png
-- Uni/CTD/DragonRRQSSDebugTitle.png
-- Uni/CTD/TreeRRQSSCulling.png
-abstract: A Hybrid Soft Shadow Renderer that uses Shadow Mapping and Ray Tracing 
+- Uni/CTP/flowfield.PNG
+- Uni/CTP/dog.PNG
+- Uni/CTP/heart.PNG
+- Uni/CTP/flowfield3.PNG
+abstract: A game made by everyone in the cohort.
 published: false
 ---
 
@@ -36,19 +36,17 @@ published: false
 </figure>
 </center>
 
-This project implemented a new algorithm for soft shadow rendering using shadow mapping and ray tracing. The RRQSS (Raster Ray Query Soft Shadow) algorithm estimates areas of shadow using PCSS (Percentage-Closer Soft Shadows), then utilises Vulkan Ray Query to ray trace these areas to obtain higher detailed shadows. The number of rays traced also depends on the shadow value, with fewer rays traced in the umbra than the penumbra.
+
 
 ---
 
 ## What I Learned
 
- - Shadow Maps
- - GPU Ray Tracing
- - Adaptive Performance based on frame rate
+ - Consolidated my understanding of unity
+ - Cooperation between departments
+ - Improved team communications
  
 ---
-
-<iframe width="448" height="252" src="https://www.youtube.com/embed/ceDCeDINXao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="448" height="252" src="https://www.youtube.com/embed/Wg2NWmyzg2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

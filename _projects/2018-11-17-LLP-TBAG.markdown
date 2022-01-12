@@ -13,7 +13,7 @@ carousel:
 - /Uni/LLP/TxtBsdAdven/TBAG_pic2.png
 - /Uni/LLP/TxtBsdAdven/TBAG_map.png
 abstract: A text based adeventure game on an abandoned spaceship
-published: true
+published: false
 ---
 
 ## Text Based Adventure Game 
