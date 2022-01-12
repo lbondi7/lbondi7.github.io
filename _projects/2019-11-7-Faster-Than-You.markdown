@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Foundry Frenzy"
+title:  "Faster Than You"
 date:   2019-10-24 12:00:00
 author: Lewis Bond
 categories: 
@@ -14,7 +14,7 @@ carousel:
 - Uni/CGD/Game2/Gameplay1.JPG
 - Uni/CGD/Game2/Gameplay2.JPG
 - Uni/CGD/Game2/Gameplay3.JPG
-abstract: A game based around the Foundry in UWE.
+abstract: A maze escape game.
 published: true
 
 ---
