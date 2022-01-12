@@ -7,7 +7,7 @@ categories:
 - project
 tagged: Vulkan, Dissertation, UWEGames, C++, University
 website: https://github.com/lbondi7
-img: Uni/CTD/TreeCompareDebug.png
+img: Uni/CTD/TreeCompareDebug2.png
 carousel:
 - Uni/CTD/DragonCompare.png
 - Uni/CTD/DragonRRQSSTitle.png
