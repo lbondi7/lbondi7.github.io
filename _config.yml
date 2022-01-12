@@ -32,6 +32,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
+    future: true
   questions:
     output: true
     permalink: /questions/:title/
