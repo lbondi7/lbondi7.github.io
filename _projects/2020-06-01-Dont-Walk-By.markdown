@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Don't Walk By"
-date:   2022-01-06 12:00:00
+date:   2020-06-06 12:00:00
 author: Lewis Bond
 categories: 
 - project
@@ -14,7 +14,7 @@ carousel:
 - Uni/CGD/DWB/Gameplay5.PNG
 - Uni/CGD/DWB/Gameplay3.PNG
 abstract: A lemmings style game made by everyone in the cohort at univeristy.
-published: false
+published: true
 ---
 
 ## Don't Walk By
