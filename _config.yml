@@ -5,7 +5,7 @@ title: Lewis Bond
 description: "A guy who screams at code for a living."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/lbondi7.github.io" #important: start with /
-url: "/lbondi7.github.io"
+url: "lbondi7.github.io"
 
 # Build settings
 highlighter: rouge
