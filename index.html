@@ -9,7 +9,7 @@ permalink: /
          <div class="col-lg-8 col-lg-offset-2">
             <h4>Latest Posts</h4>
             <div class="hline"></div>
-            {% for post in site.posts limit:10 %}
+            {% for post in site.posts limit:5 %}
             {% if post.published == true %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
             {% endif %}
