@@ -8,14 +8,14 @@ categories:
 - game jam
 tagged: Game Jam, CGD, UWEGames, C#, University
 website: https://github.com/lbondi7
-img: Uni/CGD/Game2/Title.jpg
+img: Uni/CGD/Game3/Title.jpg
 carousel:
 - Uni/CGD/Game2/MainMenu.JPG
 - Uni/CGD/Game2/Gameplay1.JPG
 - Uni/CGD/Game2/Gameplay2.JPG
 - Uni/CGD/Game2/Gameplay3.JPG
 abstract: A maze escape game.
-published: true
+published: false
 
 ---
 
